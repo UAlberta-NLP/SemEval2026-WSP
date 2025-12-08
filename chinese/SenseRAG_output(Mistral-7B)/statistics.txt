@@ -1,5 +1,5 @@
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=0).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=0).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=0).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=0).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.3832098860550885
 Spearman p-Value: 5.255900602823223e-22
@@ -8,8 +8,8 @@ Accuracy: 0.4013605442176871 (236/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=1).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=1).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=1).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=1).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.3578583522921179
 Spearman p-Value: 3.321987654973032e-19
@@ -18,8 +18,8 @@ Accuracy: 0.44047619047619047 (259/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=2).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=2).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=2).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=2).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.3805755057263563
 Spearman p-Value: 1.0551887132999013e-21
@@ -28,8 +28,8 @@ Accuracy: 0.44727891156462585 (263/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=3).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=3).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=3).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=3).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.3695864383065872
 Spearman p-Value: 1.805233828592718e-20
@@ -38,8 +38,8 @@ Accuracy: 0.4489795918367347 (264/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=4).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=4).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=4).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=4).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.37087544258243627
 Spearman p-Value: 1.3011030429933545e-20
@@ -48,8 +48,8 @@ Accuracy: 0.44727891156462585 (263/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=5).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=5).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=5).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=5).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.3710729082289017
 Spearman p-Value: 1.2372793363617592e-20
@@ -58,8 +58,8 @@ Accuracy: 0.4574829931972789 (269/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=6).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=6).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=6).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=6).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.36608556764589145
 Spearman p-Value: 4.360917423106753e-20
@@ -68,8 +68,8 @@ Accuracy: 0.45918367346938777 (270/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=7).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=7).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=7).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=7).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.3657543878046299
 Spearman p-Value: 4.7377340914592246e-20
@@ -78,8 +78,8 @@ Accuracy: 0.45918367346938777 (270/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=8).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=8).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=8).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=8).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.3411458575990297
 Spearman p-Value: 1.7185368630319675e-17
@@ -88,8 +88,8 @@ Accuracy: 0.4523809523809524 (266/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=20).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=20).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=20).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=20).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.3023676036233622
 Spearman p-Value: 6.75713325098142e-14
@@ -98,8 +98,8 @@ Accuracy: 0.467687074829932 (275/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=50).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=50).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=50).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=50).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.2870203819950593
 Spearman p-Value: 1.2946323217909201e-12
@@ -108,8 +108,8 @@ Accuracy: 0.47278911564625853 (278/588)
 
 
 
-python evaluate.py "SenseRAG_output/SenseRAG_output(k=200).jsonl" dev
-Everything looks OK. Evaluating file SenseRAG_output/SenseRAG_output(k=200).jsonl on data/dev.json...
+python evaluate.py "SenseRAG_output(Mistral-7B)/SenseRAG_output(k=200).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Mistral-7B)/SenseRAG_output(k=200).jsonl on data/dev.json...
 ----------
 Spearman Correlation: 0.26299369568627523
 Spearman p-Value: 9.290542673032489e-11
