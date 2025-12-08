@@ -1,0 +1,117 @@
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=0).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=0).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.3858957503470722
+Spearman p-Value: 2.565685545467971e-22
+----------
+Accuracy: 0.4064625850340136 (239/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=1).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=1).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.3415239927310974
+Spearman p-Value: 1.5758362551362504e-17
+----------
+Accuracy: 0.44727891156462585 (263/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=2).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=2).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.3698428931854152
+Spearman p-Value: 1.6915648924721552e-20
+----------
+Accuracy: 0.4710884353741497 (277/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=3).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=3).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.3681338824978919
+Spearman p-Value: 2.6063577007742863e-20
+----------
+Accuracy: 0.45918367346938777 (270/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=4).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=4).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.3509318259081184
+Spearman p-Value: 1.7544154692504124e-18
+----------
+Accuracy: 0.4608843537414966 (271/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=5).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=5).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.3412524264524692
+Spearman p-Value: 1.6770804533472935e-17
+----------
+Accuracy: 0.4642857142857143 (273/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=6).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=6).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.32098692979868937
+Spearman p-Value: 1.4745852957121625e-15
+----------
+Accuracy: 0.4965986394557823 (292/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=7).jsonl" dev 
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=7).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.3325928785738587
+Spearman p-Value: 1.183105561282837e-16
+----------
+Accuracy: 0.467687074829932 (275/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=8).jsonl" dev 
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=8).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.35941279006454574
+Spearman p-Value: 2.2737633629037035e-19
+----------
+Accuracy: 0.5119047619047619 (301/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=20).jsonl" dev 
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=20).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.32902246830827214
+Spearman p-Value: 2.600778678418741e-16
+----------
+Accuracy: 0.4846938775510204 (285/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=50).jsonl" dev 
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=50).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.3277775524870522
+Spearman p-Value: 3.4144797150045035e-16
+----------
+Accuracy: 0.4965986394557823 (292/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=200).jsonl" dev 
+Everything looks OK. Evaluating file RandomFewShot_output(Mistral-7B)/RandomFewShot(k=200).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.29990816912089074
+Spearman p-Value: 1.0976700541074465e-13
+----------
+Accuracy: 0.44387755102040816 (261/588)

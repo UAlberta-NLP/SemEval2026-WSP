@@ -1,0 +1,15 @@
+cd "SenseRAG_output(Qwen2.5-7B)"
+python convert.py "SenseRAG_output(k=0).tsv" "SenseRAG_output(k=0).jsonl"
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=0).jsonl" dev
+
+
+
+cd "RandomFewShot_output(Mistral-7B)"
+python convert.py "RandomFewShot(k=0).tsv" "RandomFewShot(k=0).jsonl"
+python evaluate.py "RandomFewShot_output(Mistral-7B)/RandomFewShot(k=0).jsonl" dev
+
+
+
+cd "RandomFewShot_output(Qwen2.5-7B)"
+python convert.py "RandomFewShot(k=0).tsv" "RandomFewShot(k=0).jsonl"
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=0).jsonl" dev

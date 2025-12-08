@@ -1,0 +1,117 @@
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=0).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=0).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.40463186103280246
+Spearman p-Value: 1.429046697716392e-24
+----------
+Accuracy: 0.6479591836734694 (381/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=1).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=1).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.4093088222834922
+Spearman p-Value: 3.7118376601047426e-25
+----------
+Accuracy: 0.6700680272108843 (394/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=2).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=2).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.41911742931238455
+Spearman p-Value: 2.0479890369872353e-26
+----------
+Accuracy: 0.6479591836734694 (381/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=3).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=3).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.45132503980538985
+Spearman p-Value: 7.531220435667042e-31
+----------
+Accuracy: 0.6768707482993197 (398/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=4).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=4).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.41273190247542263
+Spearman p-Value: 1.365172134095481e-25
+----------
+Accuracy: 0.6462585034013606 (380/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=5).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=5).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.4195807709554742
+Spearman p-Value: 1.7817888272036806e-26
+----------
+Accuracy: 0.6530612244897959 (384/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=6).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=6).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.45539882048098307
+Spearman p-Value: 1.911570136036366e-31
+----------
+Accuracy: 0.6683673469387755 (393/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=7).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=7).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.43283897713984326
+Spearman p-Value: 3.02089453975945e-28
+----------
+Accuracy: 0.6564625850340136 (386/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=8).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=8).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.4318053611452411
+Spearman p-Value: 4.178493594828368e-28
+----------
+Accuracy: 0.6649659863945578 (391/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=10).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=10).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.45589491094352697
+Spearman p-Value: 1.6155680635204414e-31
+----------
+Accuracy: 0.6615646258503401 (389/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=20).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=20).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.4480996405260219
+Spearman p-Value: 2.2012152124675073e-30
+----------
+Accuracy: 0.6394557823129252 (376/588)
+
+
+
+python evaluate.py "RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=50).jsonl" dev
+Everything looks OK. Evaluating file RandomFewShot_output(Qwen2.5-7B)/RandomFewShot(k=50).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.3963473539434012
+Spearman p-Value: 1.477616234957307e-23
+----------
+Accuracy: 0.6394557823129252 (376/588)

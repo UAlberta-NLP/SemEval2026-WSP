@@ -1,0 +1,117 @@
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=0).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=0).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.40463186103280246
+Spearman p-Value: 1.429046697716392e-24
+----------
+Accuracy: 0.6479591836734694 (381/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=1).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=1).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.43493352777143884
+Spearman p-Value: 1.560092266261426e-28
+----------
+Accuracy: 0.6547619047619048 (385/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=2).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=2).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.41432197321667824
+Spearman p-Value: 8.544552760782444e-26
+----------
+Accuracy: 0.6377551020408163 (375/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=3).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=3).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.4328919211008571
+Spearman p-Value: 2.9710235766502885e-28
+----------
+Accuracy: 0.6513605442176871 (383/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=4).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=4).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.45606725991071284
+Spearman p-Value: 1.5237486786353916e-31
+----------
+Accuracy: 0.6462585034013606 (380/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=5).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=5).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.4707636856582928
+Spearman p-Value: 9.159230747434682e-34
+----------
+Accuracy: 0.6632653061224489 (390/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=6).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=6).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.45801943693326713
+Spearman p-Value: 7.835403663924183e-32
+----------
+Accuracy: 0.6445578231292517 (379/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=7).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=7).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.44842079145461505
+Spearman p-Value: 1.9792759319854746e-30
+----------
+Accuracy: 0.6598639455782312 (388/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=8).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=8).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.4722603553410687
+Spearman p-Value: 5.364871957184141e-34
+----------
+Accuracy: 0.6615646258503401 (389/588)
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=10).jso
+nl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=10).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.46792492936669816
+Spearman p-Value: 2.5079777081682173e-33
+----------
+Accuracy: 0.6479591836734694 (381/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=20).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=20).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.4618267375838033
+Spearman p-Value: 2.1150625505223664e-32
+----------
+Accuracy: 0.6530612244897959 (384/588)
+
+
+
+python evaluate.py "SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=50).jsonl" dev
+Everything looks OK. Evaluating file SenseRAG_output(Qwen2.5-7B)/SenseRAG_output(k=50).jsonl on data/dev.json...
+----------
+Spearman Correlation: 0.47074879137510406
+Spearman p-Value: 9.207993264245877e-34
+----------
+Accuracy: 0.6785714285714286 (399/588)
