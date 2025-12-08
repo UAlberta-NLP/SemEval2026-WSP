@@ -1,0 +1,9 @@
+torch
+numpy
+transformers
+nltk
+scipy
+tokenizers
+accelerate
+safetensors
+sentencepiece
