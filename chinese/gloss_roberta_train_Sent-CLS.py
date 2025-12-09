@@ -11,29 +11,15 @@ from scipy.stats import spearmanr
 import matplotlib.pyplot as plt
 
 
-# ---------- Preprocessing (matches gloss_roberta_inference.py) ----------
-import re
-
-
-def highlight_target(context: str, target: str) -> str:
-    pattern = re.compile(rf"\\b{re.escape(target)}\\b", flags=re.IGNORECASE)
-
-    def replacer(match: re.Match) -> str:
-        word = match.group(0)
-        if word.startswith('"') and word.endswith('"'):
-            return word
-        return f'"{word}"'
-
-    return pattern.sub(replacer, context)
-
-
+# ---------- Preprocessing (Sent-CLS variant) ----------
 def build_context(sample: Dict) -> str:
     parts = [sample.get("precontext", ""), sample.get("sentence", ""), sample.get("ending", "")]
     return " ".join(" ".join(parts).split())
 
 
 def build_gloss(sample: Dict) -> str:
-    return f"{sample['homonym']}: {sample['judged_meaning']}"
+    # Sent-CLS variant does not prepend the target word to the gloss.
+    return sample["judged_meaning"]
 
 
 def softmax_to_score(prob_first_class: float) -> int:
@@ -80,7 +66,7 @@ class GlossDataset(Dataset):
     def __getitem__(self, idx: int):
         sid = self.ids[idx]
         sample = self.data[sid]
-        context = highlight_target(build_context(sample), sample["homonym"])
+        context = build_context(sample)
         gloss = build_gloss(sample)
         # Soft label mapped to [0,1]
         target_prob = (float(sample["average"]) - 1.0) / 4.0
@@ -231,7 +217,7 @@ def train():
             print(f"  New best dev acc: {best_acc:.4f}")
 
     # Save best predictions to file (JSONL format, requested filename)
-    output_path = Path("trained_gloss_roberta__predictions_dev.jsonl")
+    output_path = Path("trained_gloss_roberta__predictions_dev_Sent-CLS.jsonl")
     with output_path.open("w") as f:
         for pid, pred in best_preds:
             f.write(json.dumps({"id": str(pid), "prediction": int(pred)}) + "\n")
@@ -241,36 +227,36 @@ def train():
 
     # Plot 1: Accuracy vs Epoch
     plt.figure(figsize=(10, 6))
-    plt.plot(epochs_list, train_acc_history, marker='o', color='orange', label='Train')
-    plt.plot(epochs_list, dev_acc_history, marker='s', color='blue', label='Dev')
-    plt.xlabel('Epoch', fontsize=12)
-    plt.ylabel('Accuracy', fontsize=12)
-    plt.title('Gloss-RoBERTa — Accuracy vs Epoch', fontsize=14)
+    plt.plot(epochs_list, train_acc_history, marker="o", color="orange", label="Train")
+    plt.plot(epochs_list, dev_acc_history, marker="s", color="blue", label="Dev")
+    plt.xlabel("Epoch", fontsize=12)
+    plt.ylabel("Accuracy", fontsize=12)
+    plt.title("Gloss-RoBERTa (Sent-CLS) — Accuracy vs Epoch", fontsize=14)
     plt.legend(fontsize=12)
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
-    plt.savefig('accuracy_vs_epoch.png', dpi=150)
+    plt.savefig("accuracy_vs_epoch_Sent-CLS.png", dpi=150)
     plt.close()
-    print(f"\nSaved accuracy plot to: accuracy_vs_epoch.png")
+    print(f"\nSaved accuracy plot to: accuracy_vs_epoch_Sent-CLS.png")
 
     # Plot 2: Spearman Correlation vs Epoch
     plt.figure(figsize=(10, 6))
-    plt.plot(epochs_list, train_spearman_history, marker='o', color='orange', label='Train')
-    plt.plot(epochs_list, dev_spearman_history, marker='s', color='blue', label='Dev')
-    plt.xlabel('Epoch', fontsize=12)
-    plt.ylabel('Spearman Correlation', fontsize=12)
-    plt.title('Gloss-RoBERTa — Spearman vs Epoch', fontsize=14)
+    plt.plot(epochs_list, train_spearman_history, marker="o", color="orange", label="Train")
+    plt.plot(epochs_list, dev_spearman_history, marker="s", color="blue", label="Dev")
+    plt.xlabel("Epoch", fontsize=12)
+    plt.ylabel("Spearman Correlation", fontsize=12)
+    plt.title("Gloss-RoBERTa (Sent-CLS) — Spearman vs Epoch", fontsize=14)
     plt.legend(fontsize=12)
     plt.grid(True, alpha=0.3)
     plt.tight_layout()
-    plt.savefig('spearman_vs_epoch.png', dpi=150)
+    plt.savefig("spearman_vs_epoch_Sent-CLS.png", dpi=150)
     plt.close()
-    print(f"Saved Spearman plot to: spearman_vs_epoch.png")
+    print(f"Saved Spearman plot to: spearman_vs_epoch_Sent-CLS.png")
 
     print(f"\nBest dev accuracy: {best_acc:.4f}")
 
     # Optionally save best model weights (commented out to keep minimal side-effects)
-    # torch.save(best_state, "best_gloss_roberta.pt")
+    # torch.save(best_state, "best_gloss_roberta_sent_cls.pt")
 
 
 if __name__ == "__main__":
