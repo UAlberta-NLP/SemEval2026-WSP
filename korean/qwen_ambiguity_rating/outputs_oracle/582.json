@@ -1,0 +1,20 @@
+{
+  "context_id": "582",
+  "homonym": "trailer",
+  "precontext": "Emma glanced at her phone, checking the time. The evening plans were about to start, and she felt pressure from her friends. They were all eager to see what the night had in store.",
+  "sentence": "She really didn't want to go to the trailer tonight.",
+  "ending": "She had no interest in going to the movies.",
+  "meanings_considered": [
+    "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy"
+  ],
+  "explanation": "• The phrase \"go to the trailer tonight\" in the context of friends eager to see what the night had in store strongly suggests a movie trailer, as it aligns with the social anticipation of a film release.  \n• The alternative meaning—a trailer as a vehicle—would be inconsistent with the precontext, which focuses on movie-going and social pressure, not travel or transportation.  \n• The ending explicitly states \"She had no interest in going to the movies,\" which directly confirms that \"trailer\" refers to a movie trailer, not a vehicle.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+  "original_keys": [
+    "582",
+    "583"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: trailer\n\nPOSSIBLE MEANINGS:\n1. an advertisement consisting of short scenes from a motion picture that will appear in the near future (e.g., \"I watched the new movie trailer online.\")\n2. a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy (e.g., \"They traveled cross-country in their trailer.\")\n\nCONTEXT:\nPrecontext: Emma glanced at her phone, checking the time. The evening plans were about to start, and she felt pressure from her friends. They were all eager to see what the night had in store.\nSentence containing the homonym: She really didn't want to go to the trailer tonight.\nEnding: She had no interest in going to the movies.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The phrase \"go to the trailer tonight\" in the context of friends eager to see what the night had in store strongly suggests a movie trailer, as it aligns with the social anticipation of a film release.  \n• The alternative meaning—a trailer as a vehicle—would be inconsistent with the precontext, which focuses on movie-going and social pressure, not travel or transportation.  \n• The ending explicitly states \"She had no interest in going to the movies,\" which directly confirms that \"trailer\" refers to a movie trailer, not a vehicle.  \n\nJUDGMENT: CLEAR - 1"
+}

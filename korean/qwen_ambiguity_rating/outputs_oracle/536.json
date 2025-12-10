@@ -1,0 +1,20 @@
+{
+  "context_id": "536",
+  "homonym": "goal",
+  "precontext": "Mark had always dreamed of being a professional soccer player. He trained every day and pushed himself to the limit. As the biggest game of his life approached, he felt a mixture of excitement and pressure.",
+  "sentence": "After years of hard work, his goal finally came in the last minute.",
+  "ending": "A quick-witted move made by Mark impressed the enormous crowd, as their cheers could be heard for miles.",
+  "meanings_considered": [
+    "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "a successful attempt at scoring"
+  ],
+  "explanation": "• Meaning 1 (the state of affairs a plan is intended to achieve) is plausible but inconsistent with the context, as \"his goal finally came\" sounds more like a physical achievement than a personal objective being realized.  \n• Meaning 2 (a successful attempt at scoring) is strongly supported by the precontext (soccer player, training, big game, crowd cheering), making it the natural interpretation in a sports setting.  \n• The ending, describing a \"quick-witted move\" and crowd cheers, confirms a goal in the context of a soccer match, reinforcing the sports-related meaning.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "a successful attempt at scoring",
+  "original_keys": [
+    "536",
+    "537"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: goal\n\nPOSSIBLE MEANINGS:\n1. the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it (e.g., \"Achieving your goal is essential for success.\")\n2. a successful attempt at scoring (e.g., \"She scored the winning goal yesterday.\")\n\nCONTEXT:\nPrecontext: Mark had always dreamed of being a professional soccer player. He trained every day and pushed himself to the limit. As the biggest game of his life approached, he felt a mixture of excitement and pressure.\nSentence containing the homonym: After years of hard work, his goal finally came in the last minute.\nEnding: A quick-witted move made by Mark impressed the enormous crowd, as their cheers could be heard for miles.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• Meaning 1 (the state of affairs a plan is intended to achieve) is plausible but inconsistent with the context, as \"his goal finally came\" sounds more like a physical achievement than a personal objective being realized.  \n• Meaning 2 (a successful attempt at scoring) is strongly supported by the precontext (soccer player, training, big game, crowd cheering), making it the natural interpretation in a sports setting.  \n• The ending, describing a \"quick-witted move\" and crowd cheers, confirms a goal in the context of a soccer match, reinforcing the sports-related meaning.  \nJUDGMENT: CLEAR - 2"
+}

@@ -1,0 +1,20 @@
+{
+  "context_id": "386",
+  "homonym": "vision",
+  "precontext": "John sat silently in the dimly lit room. He had been pondering the mysterious events of the past week. Each night, vivid details filled his mind as he tried to make sense of it all.",
+  "sentence": "He had a very clear vision.",
+  "ending": "He laughed at what he was thinking.",
+  "meanings_considered": [
+    "the ability to see; the visual faculty",
+    "the formation of a mental image of something that is not perceived as real and is not present to the senses"
+  ],
+  "explanation": "• The precontext describes John \"pondering\" and \"vivid details filling his mind,\" suggesting internal mental imagery, supporting the mental image meaning.  \n• The phrase \"a very clear vision\" in the context of mental imagery fits naturally with the concept of a mental picture or interpretation of events.  \n• The ending, \"He laughed at what he was thinking,\" implies the content of his thoughts, reinforcing that \"vision\" refers to a mental construction rather than visual sight.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+  "original_keys": [
+    "386",
+    "387"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: vision\n\nPOSSIBLE MEANINGS:\n1. the ability to see; the visual faculty (e.g., \"Her vision is clearer with glasses.\")\n2. the formation of a mental image of something that is not perceived as real and is not present to the senses (e.g., \"Her vision of the future inspired everyone.\")\n\nCONTEXT:\nPrecontext: John sat silently in the dimly lit room. He had been pondering the mysterious events of the past week. Each night, vivid details filled his mind as he tried to make sense of it all.\nSentence containing the homonym: He had a very clear vision.\nEnding: He laughed at what he was thinking.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes John \"pondering\" and \"vivid details filling his mind,\" suggesting internal mental imagery, supporting the mental image meaning.  \n• The phrase \"a very clear vision\" in the context of mental imagery fits naturally with the concept of a mental picture or interpretation of events.  \n• The ending, \"He laughed at what he was thinking,\" implies the content of his thoughts, reinforcing that \"vision\" refers to a mental construction rather than visual sight.  \n\nJUDGMENT: CLEAR - 2"
+}

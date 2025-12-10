@@ -1,0 +1,20 @@
+{
+  "context_id": "172",
+  "homonym": "underground",
+  "precontext": "The team gathered in a dimly lit room to discuss the next phase of their project. Everyone knew that their work required secrecy and careful planning. They needed to make adjustments to ensure everything went smoothly.",
+  "sentence": "There was a suggestion that they should move underground for the next stage of the process.",
+  "ending": "",
+  "meanings_considered": [
+    "under the level of the ground",
+    "conducted with or marked by hidden aims or methods"
+  ],
+  "explanation": "• The precontext emphasizes secrecy and careful planning, making the figurative \"underground\" meaning (hidden operations) highly plausible.  \n• The literal \"underground\" (beneath the ground) is inconsistent with the setting described—a dimly lit room discussing a secret project—where physical underground infrastructure is not implied.  \n• The phrase \"move underground\" in a context of secrecy naturally aligns with the metaphorical sense of covert operations, not a physical relocation beneath the earth.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "conducted with or marked by hidden aims or methods",
+  "original_keys": [
+    "172",
+    "173"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: underground\n\nPOSSIBLE MEANINGS:\n1. under the level of the ground (e.g., \"The underground pipes need maintenance soon.\")\n2. conducted with or marked by hidden aims or methods (e.g., \"They organized an underground movement for reform.\")\n\nCONTEXT:\nPrecontext: The team gathered in a dimly lit room to discuss the next phase of their project. Everyone knew that their work required secrecy and careful planning. They needed to make adjustments to ensure everything went smoothly.\nSentence containing the homonym: There was a suggestion that they should move underground for the next stage of the process.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext emphasizes secrecy and careful planning, making the figurative \"underground\" meaning (hidden operations) highly plausible.  \n• The literal \"underground\" (beneath the ground) is inconsistent with the setting described—a dimly lit room discussing a secret project—where physical underground infrastructure is not implied.  \n• The phrase \"move underground\" in a context of secrecy naturally aligns with the metaphorical sense of covert operations, not a physical relocation beneath the earth.  \n\nJUDGMENT: CLEAR - 2"
+}

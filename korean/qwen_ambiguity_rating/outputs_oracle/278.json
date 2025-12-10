@@ -1,0 +1,20 @@
+{
+  "context_id": "278",
+  "homonym": "tips",
+  "precontext": "Anna walked into the small cafe, admiring its cozy decorations. She noticed the barista arranging flowers on the tables. Nearby, a group of kids was crafting paper airplanes, giggling as they carefully folded the edges.",
+  "sentence": "Those are some small tips over there.",
+  "ending": "The coins were contained in a saucer with a little note saying, \"For the staff.\"",
+  "meanings_considered": [
+    "the extreme end of something; especially something pointed",
+    "a relatively small amount of money given for services rendered (as by a waiter)"
+  ],
+  "explanation": "• The phrase \"small tips\" in the context of kids crafting paper airplanes is unlikely to refer to the physical \"tip\" of objects, as that would be semantically mismatched with \"small\" and the activity of folding paper.  \n• The mention of \"coins contained in a saucer\" and a note for the staff strongly supports the interpretation of \"tips\" as monetary gratuities, making meaning #2 highly plausible.  \n• Meaning #1 (the extreme end of something) is not supported by the context—there is no mention of pointed objects or sharp edges, and the kids are folding paper, not handling pointed items.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "a relatively small amount of money given for services rendered (as by a waiter)",
+  "original_keys": [
+    "278",
+    "279"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: tips\n\nPOSSIBLE MEANINGS:\n1. the extreme end of something; especially something pointed (e.g., \"The tip of the spear glimmered.\")\n2. a relatively small amount of money given for services rendered (as by a waiter) (e.g., \"I left a generous tip for dinner.\")\n\nCONTEXT:\nPrecontext: Anna walked into the small cafe, admiring its cozy decorations. She noticed the barista arranging flowers on the tables. Nearby, a group of kids was crafting paper airplanes, giggling as they carefully folded the edges.\nSentence containing the homonym: Those are some small tips over there.\nEnding: The coins were contained in a saucer with a little note saying, \"For the staff.\"\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The phrase \"small tips\" in the context of kids crafting paper airplanes is unlikely to refer to the physical \"tip\" of objects, as that would be semantically mismatched with \"small\" and the activity of folding paper.  \n• The mention of \"coins contained in a saucer\" and a note for the staff strongly supports the interpretation of \"tips\" as monetary gratuities, making meaning #2 highly plausible.  \n• Meaning #1 (the extreme end of something) is not supported by the context—there is no mention of pointed objects or sharp edges, and the kids are folding paper, not handling pointed items.  \n\nJUDGMENT: CLEAR - 2"
+}

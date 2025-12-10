@@ -1,0 +1,20 @@
+{
+  "context_id": "416",
+  "homonym": "croaked",
+  "precontext": "The boy returned home from school on a stormy day. He found his father sitting quietly in the dimly lit living room. Somehow, he seemed different as he stared into nothingness.",
+  "sentence": "The boy thought his father had croaked.",
+  "ending": "This was amplified when his dad moaned loudly and continuously blasphemed.",
+  "meanings_considered": [
+    "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "make complaining remarks or noises under one's breath"
+  ],
+  "explanation": "• Meaning 1 (died) is highly plausible given the precontext of the father seeming \"different\" and \"staring into nothingness,\" and the boy's fear of his father dying.  \n• Meaning 2 (making complaining noises) is contradicted by the ending, which states his dad \"moaned loudly and continuously blasphemed,\" suggesting active, vocal complaint rather than silent groaning.  \n• The ending explicitly confirms the father is alive and vocal, ruling out the death interpretation and supporting the idea of him making noises.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+  "original_keys": [
+    "416",
+    "417"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: croaked\n\nPOSSIBLE MEANINGS:\n1. pass from physical life and lose all bodily attributes and functions necessary to sustain life (e.g., \"He feared he might croak soon.\")\n2. make complaining remarks or noises under one's breath (e.g., \"She always croaks about her workload.\")\n\nCONTEXT:\nPrecontext: The boy returned home from school on a stormy day. He found his father sitting quietly in the dimly lit living room. Somehow, he seemed different as he stared into nothingness.\nSentence containing the homonym: The boy thought his father had croaked.\nEnding: This was amplified when his dad moaned loudly and continuously blasphemed.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• Meaning 1 (died) is highly plausible given the precontext of the father seeming \"different\" and \"staring into nothingness,\" and the boy's fear of his father dying.  \n• Meaning 2 (making complaining noises) is contradicted by the ending, which states his dad \"moaned loudly and continuously blasphemed,\" suggesting active, vocal complaint rather than silent groaning.  \n• The ending explicitly confirms the father is alive and vocal, ruling out the death interpretation and supporting the idea of him making noises.  \n\nJUDGMENT: CLEAR - 1"
+}

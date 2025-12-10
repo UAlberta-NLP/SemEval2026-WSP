@@ -1,0 +1,20 @@
+{
+  "context_id": "372",
+  "homonym": "flexible",
+  "precontext": "Anna had always managed to keep a calm demeanor. Her friends often sought her advice when faced with dilemmas. Whether it was a complicated schedule or adjusting to new situations, Anna seemed to handle it all.",
+  "sentence": "At times, she can be flexible.",
+  "ending": "Anna decided that, as her calendar was clear, she would meet up with friends later.",
+  "meanings_considered": [
+    "capable of being changed",
+    "able to flex; able to bend easily"
+  ],
+  "explanation": "• Meaning 1 (capable of being changed) is strongly supported by the precontext, which emphasizes Anna’s ability to manage dilemmas and adjust to new situations.  \n• Meaning 2 (able to bend easily) is inconsistent with the context, as there is no mention of physical objects or bodily movement, and Anna’s flexibility is described in behavioral, not physical, terms.  \n• The sentence \"she can be flexible\" follows naturally from the prior description of Anna handling complex schedules and adjusting to new situations, making the behavioral interpretation dominant.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "capable of being changed",
+  "original_keys": [
+    "372",
+    "373"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: flexible\n\nPOSSIBLE MEANINGS:\n1. capable of being changed (e.g., \"She has a flexible work schedule.\")\n2. able to flex; able to bend easily (e.g., \"The flexible branches swayed in the breeze.\")\n\nCONTEXT:\nPrecontext: Anna had always managed to keep a calm demeanor. Her friends often sought her advice when faced with dilemmas. Whether it was a complicated schedule or adjusting to new situations, Anna seemed to handle it all.\nSentence containing the homonym: At times, she can be flexible.\nEnding: Anna decided that, as her calendar was clear, she would meet up with friends later.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• Meaning 1 (capable of being changed) is strongly supported by the precontext, which emphasizes Anna’s ability to manage dilemmas and adjust to new situations.  \n• Meaning 2 (able to bend easily) is inconsistent with the context, as there is no mention of physical objects or bodily movement, and Anna’s flexibility is described in behavioral, not physical, terms.  \n• The sentence \"she can be flexible\" follows naturally from the prior description of Anna handling complex schedules and adjusting to new situations, making the behavioral interpretation dominant.  \nJUDGMENT: CLEAR - 1"
+}

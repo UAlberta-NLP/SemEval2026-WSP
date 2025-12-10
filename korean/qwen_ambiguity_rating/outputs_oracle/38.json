@@ -1,0 +1,20 @@
+{
+  "context_id": "38",
+  "homonym": "mean",
+  "precontext": "Dr. Aldridge was preparing for the annual research presentation. Two groups of students took part in the experiment last week. Each group had very different reactions to the procedure.",
+  "sentence": "The results of the test were higher in the mean cohort.",
+  "ending": "He really wanted the results to be better in the nicer group.",
+  "meanings_considered": [
+    "approximating the statistical norm or average or expected value",
+    "characterized by malice"
+  ],
+  "explanation": "• \"Mean\" as in \"approximating the statistical norm\" is supported by the precontext discussing test scores and group reactions, where \"mean cohort\" likely refers to average performance.  \n• \"Mean\" as in \"characterized by malice\" does not fit the context, as there is no indication of hostility or negative intent toward students or results.  \n• The ending, which references \"nicer group,\" suggests a comparison based on quality or desirability, not emotional malice, further ruling out the emotional meaning.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "approximating the statistical norm or average or expected value",
+  "original_keys": [
+    "38",
+    "39"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: mean\n\nPOSSIBLE MEANINGS:\n1. approximating the statistical norm or average or expected value (e.g., \"The test scores are mean for the class.\")\n2. characterized by malice (e.g., \"That was a mean thing to say.\")\n\nCONTEXT:\nPrecontext: Dr. Aldridge was preparing for the annual research presentation. Two groups of students took part in the experiment last week. Each group had very different reactions to the procedure.\nSentence containing the homonym: The results of the test were higher in the mean cohort.\nEnding: He really wanted the results to be better in the nicer group.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Mean\" as in \"approximating the statistical norm\" is supported by the precontext discussing test scores and group reactions, where \"mean cohort\" likely refers to average performance.  \n• \"Mean\" as in \"characterized by malice\" does not fit the context, as there is no indication of hostility or negative intent toward students or results.  \n• The ending, which references \"nicer group,\" suggests a comparison based on quality or desirability, not emotional malice, further ruling out the emotional meaning.  \nJUDGMENT: CLEAR - 1"
+}

@@ -1,0 +1,20 @@
+{
+  "context_id": "344",
+  "homonym": "pay",
+  "precontext": "The man crossed the wrong people. He borrowed money from a dangerous group. They came knocking on his door demanding a settlement.",
+  "sentence": "The goons made the man pay.",
+  "ending": "They threatened him until he apologized and returned the money.",
+  "meanings_considered": [
+    "give money, usually in exchange for goods or services",
+    "bear (a cost or penalty), in recompense for some action"
+  ],
+  "explanation": "• \"Pay\" as \"give money\" fits well, as the goons demanded a settlement and the man returned money, indicating financial payment.  \n• \"Pay\" as \"bear a cost/penalty\" is less plausible here, since the context involves a direct financial transaction, not a moral or legal consequence.  \n• The ending confirms the man returned money, reinforcing that \"pay\" refers to monetary repayment, not bearing a penalty.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "give money, usually in exchange for goods or services",
+  "original_keys": [
+    "344",
+    "345"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: pay\n\nPOSSIBLE MEANINGS:\n1. give money, usually in exchange for goods or services (e.g., \"I need to pay for the groceries.\")\n2. bear (a cost or penalty), in recompense for some action (e.g., \"He must pay for his reckless behavior.\")\n\nCONTEXT:\nPrecontext: The man crossed the wrong people. He borrowed money from a dangerous group. They came knocking on his door demanding a settlement.\nSentence containing the homonym: The goons made the man pay.\nEnding: They threatened him until he apologized and returned the money.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Pay\" as \"give money\" fits well, as the goons demanded a settlement and the man returned money, indicating financial payment.  \n• \"Pay\" as \"bear a cost/penalty\" is less plausible here, since the context involves a direct financial transaction, not a moral or legal consequence.  \n• The ending confirms the man returned money, reinforcing that \"pay\" refers to monetary repayment, not bearing a penalty.  \nJUDGMENT: CLEAR - 1"
+}

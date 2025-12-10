@@ -1,0 +1,20 @@
+{
+  "context_id": "424",
+  "homonym": "pile",
+  "precontext": "James walked into the room, his eyes scanning the space carefully. On the table in the center lay a large, old book, surrounded by scattered papers. He approached it slowly, feeling a sense of anticipation.",
+  "sentence": "There was a good pile on it.",
+  "ending": "",
+  "meanings_considered": [
+    "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "a large sum of money (especially as pay or profit)"
+  ],
+  "explanation": "• The phrase \"a good pile on it\" refers to a large amount of material (papers) surrounding the book, matching meaning 1 (the pile as in a mass of material, like papers or debris)  \n• Meaning 2 (a large sum of money) is not supported by the context, as there is no mention of financial gain, payment, or profit  \n• The precontext describes physical objects (book, papers) and spatial arrangement, making the physical accumulation of papers the only coherent interpretation",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+  "original_keys": [
+    "424",
+    "425"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: pile\n\nPOSSIBLE MEANINGS:\n1. the yarn (as in a rug or velvet or corduroy) that stands up from the weave (e.g., \"The rug's pile is soft and lush.\")\n2. a large sum of money (especially as pay or profit) (e.g., \"He earned a nice pile selling stocks.\")\n\nCONTEXT:\nPrecontext: James walked into the room, his eyes scanning the space carefully. On the table in the center lay a large, old book, surrounded by scattered papers. He approached it slowly, feeling a sense of anticipation.\nSentence containing the homonym: There was a good pile on it.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The phrase \"a good pile on it\" refers to a large amount of material (papers) surrounding the book, matching meaning 1 (the pile as in a mass of material, like papers or debris)  \n• Meaning 2 (a large sum of money) is not supported by the context, as there is no mention of financial gain, payment, or profit  \n• The precontext describes physical objects (book, papers) and spatial arrangement, making the physical accumulation of papers the only coherent interpretation  \n\nJUDGMENT: CLEAR - 1"
+}

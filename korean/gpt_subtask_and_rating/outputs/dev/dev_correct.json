@@ -1,0 +1,4706 @@
+[
+  {
+    "id": "0",
+    "judged_meaning": "a pair of parallel rails providing a runway for wheels",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "1",
+    "judged_meaning": "evidence pointing to a possible solution",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "2",
+    "judged_meaning": "a pair of parallel rails providing a runway for wheels",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "3",
+    "judged_meaning": "evidence pointing to a possible solution",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "4",
+    "judged_meaning": "a pair of parallel rails providing a runway for wheels",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "5",
+    "judged_meaning": "evidence pointing to a possible solution",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "6",
+    "judged_meaning": "propel,",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "7",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "8",
+    "judged_meaning": "propel,",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "9",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "10",
+    "judged_meaning": "propel,",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "11",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "12",
+    "judged_meaning": "propel,",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "13",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "14",
+    "judged_meaning": "propel,",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "15",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "16",
+    "judged_meaning": "propel,",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "17",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "18",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "19",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "20",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "21",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "22",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "23",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "24",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "25",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "26",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "27",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "28",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "29",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "30",
+    "judged_meaning": "teach and supervise (someone); act as a trainer or coach (to), as in sports",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "31",
+    "judged_meaning": "drive a coach",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "32",
+    "judged_meaning": "teach and supervise (someone); act as a trainer or coach (to), as in sports",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "33",
+    "judged_meaning": "drive a coach",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "34",
+    "judged_meaning": "teach and supervise (someone); act as a trainer or coach (to), as in sports",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "35",
+    "judged_meaning": "drive a coach",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "36",
+    "judged_meaning": "approximating the statistical norm or average or expected value",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "37",
+    "judged_meaning": "characterized by malice",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "38",
+    "judged_meaning": "approximating the statistical norm or average or expected value",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "39",
+    "judged_meaning": "characterized by malice",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "40",
+    "judged_meaning": "approximating the statistical norm or average or expected value",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "41",
+    "judged_meaning": "characterized by malice",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "42",
+    "judged_meaning": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "43",
+    "judged_meaning": "aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "44",
+    "judged_meaning": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "45",
+    "judged_meaning": "aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "46",
+    "judged_meaning": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "47",
+    "judged_meaning": "aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "48",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "49",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "50",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "51",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "52",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "53",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "54",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "55",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "56",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "57",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "58",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "59",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "60",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "61",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "62",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "63",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "64",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "65",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "66",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "67",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "68",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "69",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "70",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "71",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "72",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "73",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "74",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "75",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "76",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "77",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "78",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "79",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "80",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "81",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "82",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "83",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "84",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "85",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "86",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "87",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "88",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "89",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "90",
+    "judged_meaning": "a district that is reserved for particular purpose",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "91",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "92",
+    "judged_meaning": "a district that is reserved for particular purpose",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "93",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "94",
+    "judged_meaning": "a district that is reserved for particular purpose",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "95",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "96",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "97",
+    "judged_meaning": "a statement that limits or restricts some claim",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "98",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "99",
+    "judged_meaning": "a statement that limits or restricts some claim",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "100",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "101",
+    "judged_meaning": "a statement that limits or restricts some claim",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "102",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "103",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "104",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "105",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "106",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "107",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "108",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "109",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "110",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "111",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "112",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "113",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "114",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "115",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "116",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "117",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "118",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "119",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "120",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "121",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "122",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "123",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "124",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "125",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "126",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "127",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "128",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "129",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "130",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "131",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "132",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "133",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "134",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "135",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "136",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "137",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "138",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "139",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "140",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "141",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "142",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "143",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "144",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "145",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "146",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "147",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "148",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "149",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "150",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "151",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "152",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "153",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "154",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "155",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "156",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "157",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "158",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "159",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "160",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "161",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "162",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "163",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "164",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "165",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "166",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "167",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "168",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "169",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "170",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "171",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "172",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "173",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "174",
+    "judged_meaning": "twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "175",
+    "judged_meaning": "the act of hopping; jumping upward or forward (especially on one foot)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "176",
+    "judged_meaning": "twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "177",
+    "judged_meaning": "the act of hopping; jumping upward or forward (especially on one foot)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "178",
+    "judged_meaning": "twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "179",
+    "judged_meaning": "the act of hopping; jumping upward or forward (especially on one foot)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "180",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "181",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "182",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "183",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "184",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "185",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "186",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "187",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "188",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "189",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "190",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "191",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "192",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "193",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "194",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "195",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "196",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "197",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "198",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "199",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "200",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "201",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "202",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "203",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "204",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "205",
+    "judged_meaning": "take liquid out of a container or well;",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "206",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "207",
+    "judged_meaning": "take liquid out of a container or well;",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "208",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "209",
+    "judged_meaning": "take liquid out of a container or well;",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "210",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "211",
+    "judged_meaning": "suck in or take (air)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "212",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "213",
+    "judged_meaning": "suck in or take (air)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "214",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "215",
+    "judged_meaning": "suck in or take (air)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "216",
+    "judged_meaning": "bring, take, or pull out of a container or from under a cover",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "217",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "218",
+    "judged_meaning": "bring, take, or pull out of a container or from under a cover",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "219",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "220",
+    "judged_meaning": "bring, take, or pull out of a container or from under a cover",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "221",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "222",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "223",
+    "judged_meaning": "direct toward itself or oneself by means of some psychological power or physical attributes",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "224",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "225",
+    "judged_meaning": "direct toward itself or oneself by means of some psychological power or physical attributes",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "226",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "227",
+    "judged_meaning": "direct toward itself or oneself by means of some psychological power or physical attributes",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "228",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "229",
+    "judged_meaning": "bring or lead someone to a certain action or condition",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "230",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "231",
+    "judged_meaning": "bring or lead someone to a certain action or condition",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "232",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "233",
+    "judged_meaning": "bring or lead someone to a certain action or condition",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "234",
+    "judged_meaning": "a division of a stem, or secondary stem arising from the main stem of a plant",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "235",
+    "judged_meaning": "a division of some larger or more complex organization",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "236",
+    "judged_meaning": "a division of a stem, or secondary stem arising from the main stem of a plant",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "237",
+    "judged_meaning": "a division of some larger or more complex organization",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "238",
+    "judged_meaning": "a division of a stem, or secondary stem arising from the main stem of a plant",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "239",
+    "judged_meaning": "a division of some larger or more complex organization",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "240",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "241",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "242",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "243",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "244",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "245",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "246",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "247",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "248",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "249",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "250",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "251",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "252",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "253",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "254",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "255",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "256",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "257",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "258",
+    "judged_meaning": "make an effort or attempt",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "259",
+    "judged_meaning": "put on trial or hear a case and sit as the judge at the trial of",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "260",
+    "judged_meaning": "make an effort or attempt",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "261",
+    "judged_meaning": "put on trial or hear a case and sit as the judge at the trial of",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "262",
+    "judged_meaning": "make an effort or attempt",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "263",
+    "judged_meaning": "put on trial or hear a case and sit as the judge at the trial of",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "264",
+    "judged_meaning": "deprive someone of benefits, as a penalty",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "265",
+    "judged_meaning": "come into dock",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "266",
+    "judged_meaning": "deprive someone of benefits, as a penalty",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "267",
+    "judged_meaning": "come into dock",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "268",
+    "judged_meaning": "deprive someone of benefits, as a penalty",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "269",
+    "judged_meaning": "come into dock",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "270",
+    "judged_meaning": "cause to topple or tumble by pushing",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "271",
+    "judged_meaning": "give a tip or gratuity to in return for a service, beyond the compensation agreed on",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "272",
+    "judged_meaning": "cause to topple or tumble by pushing",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "273",
+    "judged_meaning": "give a tip or gratuity to in return for a service, beyond the compensation agreed on",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "274",
+    "judged_meaning": "cause to topple or tumble by pushing",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "275",
+    "judged_meaning": "give a tip or gratuity to in return for a service, beyond the compensation agreed on",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "276",
+    "judged_meaning": "the extreme end of something; especially something pointed",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "277",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "278",
+    "judged_meaning": "the extreme end of something; especially something pointed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "279",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "280",
+    "judged_meaning": "the extreme end of something; especially something pointed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "281",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "282",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "283",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "284",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "285",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "286",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "287",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "288",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "289",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "290",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "291",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "292",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "293",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "294",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "295",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "296",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "297",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "298",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "299",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "300",
+    "judged_meaning": "providing or experiencing physical well-being or relief ('comfy' is informal)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "301",
+    "judged_meaning": "free from stress or conducive to mental ease; having or affording peace of mind",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "302",
+    "judged_meaning": "providing or experiencing physical well-being or relief ('comfy' is informal)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "303",
+    "judged_meaning": "free from stress or conducive to mental ease; having or affording peace of mind",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "304",
+    "judged_meaning": "providing or experiencing physical well-being or relief ('comfy' is informal)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "305",
+    "judged_meaning": "free from stress or conducive to mental ease; having or affording peace of mind",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "306",
+    "judged_meaning": "a strong flame that burns brightly",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "307",
+    "judged_meaning": "a cause of difficulty and suffering",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "308",
+    "judged_meaning": "a strong flame that burns brightly",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "309",
+    "judged_meaning": "a cause of difficulty and suffering",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "310",
+    "judged_meaning": "a strong flame that burns brightly",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "311",
+    "judged_meaning": "a cause of difficulty and suffering",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "312",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "313",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "314",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "315",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "316",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "317",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "318",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "319",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "320",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "321",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "322",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "323",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "324",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "325",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "326",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "327",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "328",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "329",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "330",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "331",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "332",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "333",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "334",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "335",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "336",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "337",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "338",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "339",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "340",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "341",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "342",
+    "judged_meaning": "give money, usually in exchange for goods or services",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "343",
+    "judged_meaning": "bear (a cost or penalty), in recompense for some action",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "344",
+    "judged_meaning": "give money, usually in exchange for goods or services",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "345",
+    "judged_meaning": "bear (a cost or penalty), in recompense for some action",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "346",
+    "judged_meaning": "give money, usually in exchange for goods or services",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "347",
+    "judged_meaning": "bear (a cost or penalty), in recompense for some action",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "348",
+    "judged_meaning": "downy juicy fruit with sweet yellowish or whitish flesh",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "349",
+    "judged_meaning": "a very attractive or seductive looking woman",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "350",
+    "judged_meaning": "downy juicy fruit with sweet yellowish or whitish flesh",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "351",
+    "judged_meaning": "a very attractive or seductive looking woman",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "352",
+    "judged_meaning": "downy juicy fruit with sweet yellowish or whitish flesh",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "353",
+    "judged_meaning": "a very attractive or seductive looking woman",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "354",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "355",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "356",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "357",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "358",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "359",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "360",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "361",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "362",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "363",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "364",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "365",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "366",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "367",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "368",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "369",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "370",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "371",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "372",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "373",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "374",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "375",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "376",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "377",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "378",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "379",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "380",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "381",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "382",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "383",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "384",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "385",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "386",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "387",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "388",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "389",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "390",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "391",
+    "judged_meaning": "harass with constant criticism",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "392",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "393",
+    "judged_meaning": "harass with constant criticism",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "394",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "395",
+    "judged_meaning": "harass with constant criticism",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "396",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "397",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "398",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "399",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "400",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "401",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "402",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "403",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "404",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "405",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "406",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "407",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "408",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "409",
+    "judged_meaning": "utter a hoarse sound, like a raven",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "410",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "411",
+    "judged_meaning": "utter a hoarse sound, like a raven",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "412",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "413",
+    "judged_meaning": "utter a hoarse sound, like a raven",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "414",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "415",
+    "judged_meaning": "make complaining remarks or noises under one's breath",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "416",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "417",
+    "judged_meaning": "make complaining remarks or noises under one's breath",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "418",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "419",
+    "judged_meaning": "make complaining remarks or noises under one's breath",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "420",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "421",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "422",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "423",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "424",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "425",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "426",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "427",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "428",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "429",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "430",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "431",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "432",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "433",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "434",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "435",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "436",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "437",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "438",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "439",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "440",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "441",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "442",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "443",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "444",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "445",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "446",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "447",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "448",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "449",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "450",
+    "judged_meaning": "an itemized statement of money owed for goods shipped or services rendered",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "451",
+    "judged_meaning": "horny projecting mouth of a bird",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "452",
+    "judged_meaning": "an itemized statement of money owed for goods shipped or services rendered",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "453",
+    "judged_meaning": "horny projecting mouth of a bird",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "454",
+    "judged_meaning": "an itemized statement of money owed for goods shipped or services rendered",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "455",
+    "judged_meaning": "horny projecting mouth of a bird",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "456",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "457",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "458",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "459",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "460",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "461",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "462",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "463",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "464",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "465",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "466",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "467",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "468",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "469",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "470",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "471",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "472",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "473",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "474",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "475",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "476",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "477",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "478",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "479",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "480",
+    "judged_meaning": "the object of an activity",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "481",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "482",
+    "judged_meaning": "the object of an activity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "483",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "484",
+    "judged_meaning": "the object of an activity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "485",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "486",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "487",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "488",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "489",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "490",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "491",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "492",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "493",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "494",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "495",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "496",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "497",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "498",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "499",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "500",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "501",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "502",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "503",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "504",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "505",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "506",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "507",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "508",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "509",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "510",
+    "judged_meaning": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "511",
+    "judged_meaning": "a situation treated as an observable object",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "512",
+    "judged_meaning": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "513",
+    "judged_meaning": "a situation treated as an observable object",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "514",
+    "judged_meaning": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "515",
+    "judged_meaning": "a situation treated as an observable object",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "516",
+    "judged_meaning": "imagine; conceive of; see in one's mind",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "517",
+    "judged_meaning": "show in, or as in, a picture",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "518",
+    "judged_meaning": "imagine; conceive of; see in one's mind",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "519",
+    "judged_meaning": "show in, or as in, a picture",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "520",
+    "judged_meaning": "imagine; conceive of; see in one's mind",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "521",
+    "judged_meaning": "show in, or as in, a picture",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "522",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "523",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "524",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "525",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "526",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "527",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "528",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "529",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "530",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "531",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "532",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "533",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "534",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "535",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "536",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "537",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "538",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "539",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "540",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "541",
+    "judged_meaning": "a written record of messages sent or received",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "542",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "543",
+    "judged_meaning": "a written record of messages sent or received",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "544",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "545",
+    "judged_meaning": "a written record of messages sent or received",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "546",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "547",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "548",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "549",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "550",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "551",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "552",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "553",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "554",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "555",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "556",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "557",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "558",
+    "judged_meaning": "the distinct personality of an individual regarded as a persisting entity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "559",
+    "judged_meaning": "an operator that leaves unchanged the element on which it operates",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "560",
+    "judged_meaning": "the distinct personality of an individual regarded as a persisting entity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "561",
+    "judged_meaning": "an operator that leaves unchanged the element on which it operates",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "562",
+    "judged_meaning": "the distinct personality of an individual regarded as a persisting entity",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "563",
+    "judged_meaning": "an operator that leaves unchanged the element on which it operates",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "564",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "565",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "566",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "567",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "568",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "569",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "570",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "571",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "572",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "573",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "574",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "575",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "576",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "577",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "578",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "579",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "580",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "581",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "582",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "583",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "584",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "585",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: CORRECT",
+    "model_choice": "CORRECT",
+    "guaranteed_correct": true,
+    "api_error": null
+  },
+  {
+    "id": "586",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  },
+  {
+    "id": "587",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "ANSWER: NOT",
+    "model_choice": "NOT",
+    "guaranteed_correct": false,
+    "api_error": null
+  }
+]

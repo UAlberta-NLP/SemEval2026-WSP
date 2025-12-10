@@ -1,0 +1,20 @@
+{
+  "context_id": "22",
+  "homonym": "guts",
+  "precontext": "    Emily was about to perform her first solo operation. She felt a mix of excitement and apprehension as she prepared for the procedure. Her mentor assured her that she was ready for the challenge ahead.",
+  "sentence": "The surgeon said the patient had guts like she'd never seen before.",
+  "ending": "",
+  "meanings_considered": [
+    "fortitude and determination",
+    "the part of the alimentary canal between the stomach and the anus"
+  ],
+  "explanation": "• Meaning 1 (fortitude) is highly plausible: \"guts\" in this context refers to courage or boldness, which aligns with the precontext of Emily preparing for a high-stakes operation and her mentor's reassurance about her readiness.  \n• Meaning 2 (anatomical part) is implausible: There is no medical or anatomical discussion in the precontext or sentence, and no mention of the patient's physical condition or internal organs.  \n• The sentence structure and surrounding context strongly favor emotional/psychological courage over physical anatomy.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "fortitude and determination",
+  "original_keys": [
+    "22",
+    "23"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: guts\n\nPOSSIBLE MEANINGS:\n1. fortitude and determination (e.g., \"She didn't have the guts to stand up.\")\n2. the part of the alimentary canal between the stomach and the anus (e.g., \"The doctor examined his gut for issues.\")\n\nCONTEXT:\nPrecontext:     Emily was about to perform her first solo operation. She felt a mix of excitement and apprehension as she prepared for the procedure. Her mentor assured her that she was ready for the challenge ahead.\nSentence containing the homonym: The surgeon said the patient had guts like she'd never seen before.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• Meaning 1 (fortitude) is highly plausible: \"guts\" in this context refers to courage or boldness, which aligns with the precontext of Emily preparing for a high-stakes operation and her mentor's reassurance about her readiness.  \n• Meaning 2 (anatomical part) is implausible: There is no medical or anatomical discussion in the precontext or sentence, and no mention of the patient's physical condition or internal organs.  \n• The sentence structure and surrounding context strongly favor emotional/psychological courage over physical anatomy.  \n\nJUDGMENT: CLEAR - 1"
+}

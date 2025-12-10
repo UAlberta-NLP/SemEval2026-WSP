@@ -1,0 +1,20 @@
+{
+  "context_id": "488",
+  "homonym": "point",
+  "precontext": "The campers sat in a circle around the dwindling fire. Tom and Lily exchanged nervous glances, clutching their trek poles tightly. In the dim light, shadows danced on the forest floor.",
+  "sentence": "They tried their hardest to avoid the point.",
+  "ending": "They waited for this to pass so they could enjoy more.",
+  "meanings_considered": [
+    "sharp end",
+    "a brief version of the essential meaning of something"
+  ],
+  "explanation": "• \"Point\" as a sharp end (e.g., the tip of a stick or pole) is plausible given the physical setting and the mention of trek poles, but the sentence \"avoid the point\" would be odd in this context since one doesn’t typically \"avoid\" the physical tip of a pole.  \n• \"Point\" as a brief version of the essential meaning fits better with the emotional and psychological tone—Tom and Lily are nervous, trying to avoid something significant or triggering, suggesting they are avoiding a key idea or truth.  \n• The precontext emphasizes physical actions and environment, while the ending mentions waiting for \"this to pass\" to enjoy more, implying a psychological or emotional tension rather than a physical obstacle.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "a brief version of the essential meaning of something",
+  "original_keys": [
+    "488",
+    "489"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: point\n\nPOSSIBLE MEANINGS:\n1. sharp end (e.g., \"He carefully carved the point of the stick.\")\n2. a brief version of the essential meaning of something (e.g., \"Make your point clearly and concisely.\")\n\nCONTEXT:\nPrecontext: The campers sat in a circle around the dwindling fire. Tom and Lily exchanged nervous glances, clutching their trek poles tightly. In the dim light, shadows danced on the forest floor.\nSentence containing the homonym: They tried their hardest to avoid the point.\nEnding: They waited for this to pass so they could enjoy more.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Point\" as a sharp end (e.g., the tip of a stick or pole) is plausible given the physical setting and the mention of trek poles, but the sentence \"avoid the point\" would be odd in this context since one doesn’t typically \"avoid\" the physical tip of a pole.  \n• \"Point\" as a brief version of the essential meaning fits better with the emotional and psychological tone—Tom and Lily are nervous, trying to avoid something significant or triggering, suggesting they are avoiding a key idea or truth.  \n• The precontext emphasizes physical actions and environment, while the ending mentions waiting for \"this to pass\" to enjoy more, implying a psychological or emotional tension rather than a physical obstacle.  \n\nJUDGMENT: CLEAR - 2"
+}

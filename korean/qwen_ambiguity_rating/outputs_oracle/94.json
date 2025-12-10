@@ -1,0 +1,20 @@
+{
+  "context_id": "94",
+  "homonym": "reservation",
+  "precontext": "John and Mary had planned this trip for months. They both needed time away from the hustle of the city. After packing their bags, they were finally on their way.",
+  "sentence": "The couple went to their reservation.",
+  "ending": "",
+  "meanings_considered": [
+    "a district that is reserved for particular purpose",
+    "the act of reserving (a place or passage) or engaging the services of (a person or group)"
+  ],
+  "explanation": "• The precontext mentions John and Mary planning a trip to escape city life, making a \"reservation\" as a geographical location (meaning 1) highly plausible.  \n• \"Reservation\" as the act of reserving a place or service (meaning 2) does not fit, as there is no mention of dining, lodging, or booking a service.  \n• The phrase \"went to their reservation\" logically refers to a physical location (a tribal or geographic area), not an act of booking.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "a district that is reserved for particular purpose",
+  "original_keys": [
+    "94",
+    "95"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: reservation\n\nPOSSIBLE MEANINGS:\n1. a district that is reserved for particular purpose (e.g., \"The tribe established a new reservation.\")\n2. the act of reserving (a place or passage) or engaging the services of (a person or group) (e.g., \"I made a reservation for dinner.\")\n\nCONTEXT:\nPrecontext: John and Mary had planned this trip for months. They both needed time away from the hustle of the city. After packing their bags, they were finally on their way.\nSentence containing the homonym: The couple went to their reservation.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext mentions John and Mary planning a trip to escape city life, making a \"reservation\" as a geographical location (meaning 1) highly plausible.  \n• \"Reservation\" as the act of reserving a place or service (meaning 2) does not fit, as there is no mention of dining, lodging, or booking a service.  \n• The phrase \"went to their reservation\" logically refers to a physical location (a tribal or geographic area), not an act of booking.  \n\nJUDGMENT: CLEAR - 1"
+}

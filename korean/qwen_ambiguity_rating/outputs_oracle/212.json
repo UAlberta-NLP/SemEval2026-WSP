@@ -1,0 +1,20 @@
+{
+  "context_id": "212",
+  "homonym": "draw",
+  "precontext": "Sheila stepped onto the porch, feeling the evening breeze. In her hand, she held a small sketchpad and a pack of cigarettes. Her fingers danced nervously as she contemplated her next move.",
+  "sentence": "Sheila was about to draw on the cigarette.",
+  "ending": "Inhaling the cigarette calmed her nerves.",
+  "meanings_considered": [
+    "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "suck in or take (air)"
+  ],
+  "explanation": "• \"Draw on the cigarette\" is a plausible literal interpretation, referring to the act of drawing (sucking) air through the cigarette, supported by the ending that mentions inhaling.  \n• The phrase \"draw on the cigarette\" could be misinterpreted as making a drawing on it, but the precontext shows Sheila has a sketchpad and is contemplating her next move, making artistic drawing unlikely in this moment.  \n• The ending explicitly confirms \"inhaling,\" which strongly supports the \"suck in air\" meaning and rules out the drawing meaning as a literal action.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "suck in or take (air)",
+  "original_keys": [
+    "212",
+    "213"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: draw\n\nPOSSIBLE MEANINGS:\n1. represent by making a drawing of, as with a pencil, chalk, etc. on a surface (e.g., \"She will draw a beautiful landscape.\")\n2. suck in or take (air) (e.g., \"She took a moment to draw breath.\")\n\nCONTEXT:\nPrecontext: Sheila stepped onto the porch, feeling the evening breeze. In her hand, she held a small sketchpad and a pack of cigarettes. Her fingers danced nervously as she contemplated her next move.\nSentence containing the homonym: Sheila was about to draw on the cigarette.\nEnding: Inhaling the cigarette calmed her nerves.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Draw on the cigarette\" is a plausible literal interpretation, referring to the act of drawing (sucking) air through the cigarette, supported by the ending that mentions inhaling.  \n• The phrase \"draw on the cigarette\" could be misinterpreted as making a drawing on it, but the precontext shows Sheila has a sketchpad and is contemplating her next move, making artistic drawing unlikely in this moment.  \n• The ending explicitly confirms \"inhaling,\" which strongly supports the \"suck in air\" meaning and rules out the drawing meaning as a literal action.  \n\nJUDGMENT: CLEAR - 2"
+}

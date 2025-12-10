@@ -1,0 +1,20 @@
+{
+  "context_id": "328",
+  "homonym": "snorted",
+  "precontext": "John sat nervously at the dining table with his friends. The atmosphere was tense, as they all waited for the meal to begin. Beside him, Mike fidgeted with an unfamiliar box he had brought along.",
+  "sentence": "When he leaned over the table and snorted loudly, everyone turned to look at him in shock.",
+  "ending": "",
+  "meanings_considered": [
+    "make a snorting sound by exhaling hard",
+    "inhale recreational drugs"
+  ],
+  "explanation": "• Making a snorting sound fits the context of nervous behavior and loud exhalation in a tense atmosphere.  \n• Inhaling drugs is not supported by the precontext, which describes a neutral, social dining scenario with no mention of drug use or illicit activity.  \n• The physical action of snorting loudly aligns with observable behavior (leaning over, loud sound, everyone turning) without requiring hidden or illegal activity.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "make a snorting sound by exhaling hard",
+  "original_keys": [
+    "328",
+    "329"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: snorted\n\nPOSSIBLE MEANINGS:\n1. make a snorting sound by exhaling hard (e.g., \"He snorted in disbelief at the news.\")\n2. inhale recreational drugs (e.g., \"He was caught snorting powder in the bathroom.\")\n\nCONTEXT:\nPrecontext: John sat nervously at the dining table with his friends. The atmosphere was tense, as they all waited for the meal to begin. Beside him, Mike fidgeted with an unfamiliar box he had brought along.\nSentence containing the homonym: When he leaned over the table and snorted loudly, everyone turned to look at him in shock.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• Making a snorting sound fits the context of nervous behavior and loud exhalation in a tense atmosphere.  \n• Inhaling drugs is not supported by the precontext, which describes a neutral, social dining scenario with no mention of drug use or illicit activity.  \n• The physical action of snorting loudly aligns with observable behavior (leaning over, loud sound, everyone turning) without requiring hidden or illegal activity.  \nJUDGMENT: CLEAR - 1"
+}

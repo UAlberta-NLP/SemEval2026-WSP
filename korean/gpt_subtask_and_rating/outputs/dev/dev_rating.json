@@ -1,0 +1,4706 @@
+[
+  {
+    "id": "0",
+    "homonym": "track",
+    "judged_meaning": "a pair of parallel rails providing a runway for wheels",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "1",
+    "homonym": "track",
+    "judged_meaning": "evidence pointing to a possible solution",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "2",
+    "homonym": "track",
+    "judged_meaning": "a pair of parallel rails providing a runway for wheels",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "3",
+    "homonym": "track",
+    "judged_meaning": "evidence pointing to a possible solution",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "4",
+    "homonym": "track",
+    "judged_meaning": "a pair of parallel rails providing a runway for wheels",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "5",
+    "homonym": "track",
+    "judged_meaning": "evidence pointing to a possible solution",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "6",
+    "homonym": "dribbling",
+    "judged_meaning": "propel,",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "7",
+    "homonym": "dribbling",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "8",
+    "homonym": "dribbling",
+    "judged_meaning": "propel,",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "9",
+    "homonym": "dribbling",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "10",
+    "homonym": "dribbling",
+    "judged_meaning": "propel,",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "11",
+    "homonym": "dribbling",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "12",
+    "homonym": "dribbled",
+    "judged_meaning": "propel,",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "13",
+    "homonym": "dribbled",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "14",
+    "homonym": "dribbled",
+    "judged_meaning": "propel,",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "15",
+    "homonym": "dribbled",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "16",
+    "homonym": "dribbled",
+    "judged_meaning": "propel,",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "17",
+    "homonym": "dribbled",
+    "judged_meaning": "let saliva drivel from the mouth",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "18",
+    "homonym": "guts",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "19",
+    "homonym": "guts",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "20",
+    "homonym": "guts",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "21",
+    "homonym": "guts",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "22",
+    "homonym": "guts",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "23",
+    "homonym": "guts",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "24",
+    "homonym": "guts",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "25",
+    "homonym": "guts",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "26",
+    "homonym": "guts",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "27",
+    "homonym": "guts",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "28",
+    "homonym": "guts",
+    "judged_meaning": "fortitude and determination",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "29",
+    "homonym": "guts",
+    "judged_meaning": "the part of the alimentary canal between the stomach and the anus",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "30",
+    "homonym": "coached",
+    "judged_meaning": "teach and supervise (someone); act as a trainer or coach (to), as in sports",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "31",
+    "homonym": "coached",
+    "judged_meaning": "drive a coach",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "32",
+    "homonym": "coached",
+    "judged_meaning": "teach and supervise (someone); act as a trainer or coach (to), as in sports",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "33",
+    "homonym": "coached",
+    "judged_meaning": "drive a coach",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "34",
+    "homonym": "coached",
+    "judged_meaning": "teach and supervise (someone); act as a trainer or coach (to), as in sports",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "35",
+    "homonym": "coached",
+    "judged_meaning": "drive a coach",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "36",
+    "homonym": "mean",
+    "judged_meaning": "approximating the statistical norm or average or expected value",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "37",
+    "homonym": "mean",
+    "judged_meaning": "characterized by malice",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "38",
+    "homonym": "mean",
+    "judged_meaning": "approximating the statistical norm or average or expected value",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "39",
+    "homonym": "mean",
+    "judged_meaning": "characterized by malice",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "40",
+    "homonym": "mean",
+    "judged_meaning": "approximating the statistical norm or average or expected value",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "41",
+    "homonym": "mean",
+    "judged_meaning": "characterized by malice",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "42",
+    "homonym": "sage",
+    "judged_meaning": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "43",
+    "homonym": "sage",
+    "judged_meaning": "aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "44",
+    "homonym": "sage",
+    "judged_meaning": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "45",
+    "homonym": "sage",
+    "judged_meaning": "aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "46",
+    "homonym": "sage",
+    "judged_meaning": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "47",
+    "homonym": "sage",
+    "judged_meaning": "aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "48",
+    "homonym": "suit",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "49",
+    "homonym": "suit",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "50",
+    "homonym": "suit",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "51",
+    "homonym": "suit",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "52",
+    "homonym": "suit",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "53",
+    "homonym": "suit",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "54",
+    "homonym": "suits",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "55",
+    "homonym": "suits",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "56",
+    "homonym": "suits",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "57",
+    "homonym": "suits",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "58",
+    "homonym": "suits",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "59",
+    "homonym": "suits",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "60",
+    "homonym": "suit",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "61",
+    "homonym": "suit",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "62",
+    "homonym": "suit",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "63",
+    "homonym": "suit",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "64",
+    "homonym": "suit",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "65",
+    "homonym": "suit",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "66",
+    "homonym": "suits",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "67",
+    "homonym": "suits",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "68",
+    "homonym": "suits",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "69",
+    "homonym": "suits",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "70",
+    "homonym": "suits",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "71",
+    "homonym": "suits",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "72",
+    "homonym": "suits",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "73",
+    "homonym": "suits",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "74",
+    "homonym": "suits",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "75",
+    "homonym": "suits",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "76",
+    "homonym": "suits",
+    "judged_meaning": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "77",
+    "homonym": "suits",
+    "judged_meaning": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "78",
+    "homonym": "stars",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "79",
+    "homonym": "stars",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "80",
+    "homonym": "stars",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "81",
+    "homonym": "stars",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "82",
+    "homonym": "stars",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "83",
+    "homonym": "stars",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "84",
+    "homonym": "star",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "85",
+    "homonym": "star",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "86",
+    "homonym": "star",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "87",
+    "homonym": "star",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "88",
+    "homonym": "star",
+    "judged_meaning": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "89",
+    "homonym": "star",
+    "judged_meaning": "an actor who plays a principal role",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "90",
+    "homonym": "reservation",
+    "judged_meaning": "a district that is reserved for particular purpose",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "91",
+    "homonym": "reservation",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "92",
+    "homonym": "reservation",
+    "judged_meaning": "a district that is reserved for particular purpose",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "93",
+    "homonym": "reservation",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "94",
+    "homonym": "reservation",
+    "judged_meaning": "a district that is reserved for particular purpose",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "95",
+    "homonym": "reservation",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "96",
+    "homonym": "reservation",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "97",
+    "homonym": "reservation",
+    "judged_meaning": "a statement that limits or restricts some claim",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "98",
+    "homonym": "reservation",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "99",
+    "homonym": "reservation",
+    "judged_meaning": "a statement that limits or restricts some claim",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "100",
+    "homonym": "reservation",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "101",
+    "homonym": "reservation",
+    "judged_meaning": "a statement that limits or restricts some claim",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "102",
+    "homonym": "reservations",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "103",
+    "homonym": "reservations",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "104",
+    "homonym": "reservations",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "105",
+    "homonym": "reservations",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "106",
+    "homonym": "reservations",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "107",
+    "homonym": "reservations",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "108",
+    "homonym": "reservations",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "109",
+    "homonym": "reservations",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "110",
+    "homonym": "reservations",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "111",
+    "homonym": "reservations",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "112",
+    "homonym": "reservations",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "113",
+    "homonym": "reservations",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "114",
+    "homonym": "reservations",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "115",
+    "homonym": "reservations",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "116",
+    "homonym": "reservations",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "117",
+    "homonym": "reservations",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "118",
+    "homonym": "reservations",
+    "judged_meaning": "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "119",
+    "homonym": "reservations",
+    "judged_meaning": "the act of reserving (a place or passage) or engaging the services of (a person or group)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "120",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "121",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "122",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "123",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "124",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "125",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "126",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "127",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "128",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "129",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "130",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "131",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "132",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "133",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "134",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "135",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "136",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "137",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "138",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "139",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "140",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "141",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "142",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "143",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "144",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "145",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "146",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "147",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "148",
+    "homonym": "downhill",
+    "judged_meaning": "toward a lower or inferior state",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "149",
+    "homonym": "downhill",
+    "judged_meaning": "toward the bottom of a hill",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "150",
+    "homonym": "fallout",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "151",
+    "homonym": "fallout",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "152",
+    "homonym": "fallout",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "153",
+    "homonym": "fallout",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "154",
+    "homonym": "fallout",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "155",
+    "homonym": "fallout",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "156",
+    "homonym": "fallout",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "157",
+    "homonym": "fallout",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "158",
+    "homonym": "fallout",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "159",
+    "homonym": "fallout",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "160",
+    "homonym": "fallout",
+    "judged_meaning": "the radioactive particles that settle to the ground after a nuclear explosion",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "161",
+    "homonym": "fallout",
+    "judged_meaning": "any adverse and unwanted secondary effect",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "162",
+    "homonym": "underground",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "163",
+    "homonym": "underground",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "164",
+    "homonym": "underground",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "165",
+    "homonym": "underground",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "166",
+    "homonym": "underground",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "167",
+    "homonym": "underground",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "168",
+    "homonym": "underground",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "169",
+    "homonym": "underground",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "170",
+    "homonym": "underground",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "171",
+    "homonym": "underground",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "172",
+    "homonym": "underground",
+    "judged_meaning": "under the level of the ground",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "173",
+    "homonym": "underground",
+    "judged_meaning": "conducted with or marked by hidden aims or methods",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "174",
+    "homonym": "hops",
+    "judged_meaning": "twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "175",
+    "homonym": "hops",
+    "judged_meaning": "the act of hopping; jumping upward or forward (especially on one foot)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "176",
+    "homonym": "hops",
+    "judged_meaning": "twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "177",
+    "homonym": "hops",
+    "judged_meaning": "the act of hopping; jumping upward or forward (especially on one foot)",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "178",
+    "homonym": "hops",
+    "judged_meaning": "twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "179",
+    "homonym": "hops",
+    "judged_meaning": "the act of hopping; jumping upward or forward (especially on one foot)",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "180",
+    "homonym": "flop",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "181",
+    "homonym": "flop",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "182",
+    "homonym": "flop",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "183",
+    "homonym": "flop",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "184",
+    "homonym": "flop",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "185",
+    "homonym": "flop",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "186",
+    "homonym": "flop",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "187",
+    "homonym": "flop",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "188",
+    "homonym": "flop",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "189",
+    "homonym": "flop",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "190",
+    "homonym": "flop",
+    "judged_meaning": "fall loosely",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "191",
+    "homonym": "flop",
+    "judged_meaning": "fail utterly; collapse",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "192",
+    "homonym": "fledgling",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "193",
+    "homonym": "fledgling",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "194",
+    "homonym": "fledgling",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "195",
+    "homonym": "fledgling",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "196",
+    "homonym": "fledgling",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "197",
+    "homonym": "fledgling",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "198",
+    "homonym": "fledgling",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "199",
+    "homonym": "fledgling",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "200",
+    "homonym": "fledgling",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "201",
+    "homonym": "fledgling",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "202",
+    "homonym": "fledgling",
+    "judged_meaning": "any new participant in some activity",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "203",
+    "homonym": "fledgling",
+    "judged_meaning": "young bird that has just fledged or become capable of flying",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "204",
+    "homonym": "Drawing",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "205",
+    "homonym": "Drawing",
+    "judged_meaning": "take liquid out of a container or well;",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "206",
+    "homonym": "Drawing",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "207",
+    "homonym": "Drawing",
+    "judged_meaning": "take liquid out of a container or well;",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "208",
+    "homonym": "Drawing",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "209",
+    "homonym": "Drawing",
+    "judged_meaning": "take liquid out of a container or well;",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "210",
+    "homonym": "draw",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "211",
+    "homonym": "draw",
+    "judged_meaning": "suck in or take (air)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "212",
+    "homonym": "draw",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "213",
+    "homonym": "draw",
+    "judged_meaning": "suck in or take (air)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "214",
+    "homonym": "draw",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "215",
+    "homonym": "draw",
+    "judged_meaning": "suck in or take (air)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "216",
+    "homonym": "draw",
+    "judged_meaning": "bring, take, or pull out of a container or from under a cover",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "217",
+    "homonym": "draw",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "218",
+    "homonym": "draw",
+    "judged_meaning": "bring, take, or pull out of a container or from under a cover",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "219",
+    "homonym": "draw",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "220",
+    "homonym": "draw",
+    "judged_meaning": "bring, take, or pull out of a container or from under a cover",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "221",
+    "homonym": "draw",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "222",
+    "homonym": "drawing",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "223",
+    "homonym": "drawing",
+    "judged_meaning": "direct toward itself or oneself by means of some psychological power or physical attributes",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "224",
+    "homonym": "drawing",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "225",
+    "homonym": "drawing",
+    "judged_meaning": "direct toward itself or oneself by means of some psychological power or physical attributes",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "226",
+    "homonym": "drawing",
+    "judged_meaning": "represent by making a drawing of, as with a pencil, chalk, etc. on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "227",
+    "homonym": "drawing",
+    "judged_meaning": "direct toward itself or oneself by means of some psychological power or physical attributes",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "228",
+    "homonym": "drawn",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "229",
+    "homonym": "drawn",
+    "judged_meaning": "bring or lead someone to a certain action or condition",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "230",
+    "homonym": "drawn",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "231",
+    "homonym": "drawn",
+    "judged_meaning": "bring or lead someone to a certain action or condition",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "232",
+    "homonym": "drawn",
+    "judged_meaning": "make a mark or lines on a surface",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "233",
+    "homonym": "drawn",
+    "judged_meaning": "bring or lead someone to a certain action or condition",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "234",
+    "homonym": "branch",
+    "judged_meaning": "a division of a stem, or secondary stem arising from the main stem of a plant",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "235",
+    "homonym": "branch",
+    "judged_meaning": "a division of some larger or more complex organization",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "236",
+    "homonym": "branch",
+    "judged_meaning": "a division of a stem, or secondary stem arising from the main stem of a plant",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "237",
+    "homonym": "branch",
+    "judged_meaning": "a division of some larger or more complex organization",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "238",
+    "homonym": "branch",
+    "judged_meaning": "a division of a stem, or secondary stem arising from the main stem of a plant",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "239",
+    "homonym": "branch",
+    "judged_meaning": "a division of some larger or more complex organization",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "240",
+    "homonym": "fiddle",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "241",
+    "homonym": "fiddle",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "242",
+    "homonym": "fiddle",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "243",
+    "homonym": "fiddle",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "244",
+    "homonym": "fiddle",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "245",
+    "homonym": "fiddle",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "246",
+    "homonym": "fiddling",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "247",
+    "homonym": "fiddling",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "248",
+    "homonym": "fiddling",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "249",
+    "homonym": "fiddling",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "250",
+    "homonym": "fiddling",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "251",
+    "homonym": "fiddling",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "252",
+    "homonym": "fiddling",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "253",
+    "homonym": "fiddling",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "254",
+    "homonym": "fiddling",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "255",
+    "homonym": "fiddling",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "256",
+    "homonym": "fiddling",
+    "judged_meaning": "avoid (one's assigned duties)",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "257",
+    "homonym": "fiddling",
+    "judged_meaning": "play the violin or fiddle",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "258",
+    "homonym": "try",
+    "judged_meaning": "make an effort or attempt",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "259",
+    "homonym": "try",
+    "judged_meaning": "put on trial or hear a case and sit as the judge at the trial of",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "260",
+    "homonym": "try",
+    "judged_meaning": "make an effort or attempt",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "261",
+    "homonym": "try",
+    "judged_meaning": "put on trial or hear a case and sit as the judge at the trial of",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "262",
+    "homonym": "try",
+    "judged_meaning": "make an effort or attempt",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "263",
+    "homonym": "try",
+    "judged_meaning": "put on trial or hear a case and sit as the judge at the trial of",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "264",
+    "homonym": "docked",
+    "judged_meaning": "deprive someone of benefits, as a penalty",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "265",
+    "homonym": "docked",
+    "judged_meaning": "come into dock",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "266",
+    "homonym": "docked",
+    "judged_meaning": "deprive someone of benefits, as a penalty",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "267",
+    "homonym": "docked",
+    "judged_meaning": "come into dock",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "268",
+    "homonym": "docked",
+    "judged_meaning": "deprive someone of benefits, as a penalty",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "269",
+    "homonym": "docked",
+    "judged_meaning": "come into dock",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "270",
+    "homonym": "tipped",
+    "judged_meaning": "cause to topple or tumble by pushing",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "271",
+    "homonym": "tipped",
+    "judged_meaning": "give a tip or gratuity to in return for a service, beyond the compensation agreed on",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "272",
+    "homonym": "tipped",
+    "judged_meaning": "cause to topple or tumble by pushing",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "273",
+    "homonym": "tipped",
+    "judged_meaning": "give a tip or gratuity to in return for a service, beyond the compensation agreed on",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "274",
+    "homonym": "tipped",
+    "judged_meaning": "cause to topple or tumble by pushing",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "275",
+    "homonym": "tipped",
+    "judged_meaning": "give a tip or gratuity to in return for a service, beyond the compensation agreed on",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "276",
+    "homonym": "tips",
+    "judged_meaning": "the extreme end of something; especially something pointed",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "277",
+    "homonym": "tips",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "278",
+    "homonym": "tips",
+    "judged_meaning": "the extreme end of something; especially something pointed",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "279",
+    "homonym": "tips",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "280",
+    "homonym": "tips",
+    "judged_meaning": "the extreme end of something; especially something pointed",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "281",
+    "homonym": "tips",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "282",
+    "homonym": "tips",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "283",
+    "homonym": "tips",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "284",
+    "homonym": "tips",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "285",
+    "homonym": "tips",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "286",
+    "homonym": "tips",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "287",
+    "homonym": "tips",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "288",
+    "homonym": "tips",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "289",
+    "homonym": "tips",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "290",
+    "homonym": "tips",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "291",
+    "homonym": "tips",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "292",
+    "homonym": "tips",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "293",
+    "homonym": "tips",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "294",
+    "homonym": "tip",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "295",
+    "homonym": "tip",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "296",
+    "homonym": "tip",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "297",
+    "homonym": "tip",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "298",
+    "homonym": "tip",
+    "judged_meaning": "a relatively small amount of money given for services rendered (as by a waiter)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "299",
+    "homonym": "tip",
+    "judged_meaning": "an indication of potential opportunity",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "300",
+    "homonym": "comfortable",
+    "judged_meaning": "providing or experiencing physical well-being or relief ('comfy' is informal)",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "301",
+    "homonym": "comfortable",
+    "judged_meaning": "free from stress or conducive to mental ease; having or affording peace of mind",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "302",
+    "homonym": "comfortable",
+    "judged_meaning": "providing or experiencing physical well-being or relief ('comfy' is informal)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "303",
+    "homonym": "comfortable",
+    "judged_meaning": "free from stress or conducive to mental ease; having or affording peace of mind",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "304",
+    "homonym": "comfortable",
+    "judged_meaning": "providing or experiencing physical well-being or relief ('comfy' is informal)",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "305",
+    "homonym": "comfortable",
+    "judged_meaning": "free from stress or conducive to mental ease; having or affording peace of mind",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "306",
+    "homonym": "blaze",
+    "judged_meaning": "a strong flame that burns brightly",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "307",
+    "homonym": "blaze",
+    "judged_meaning": "a cause of difficulty and suffering",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "308",
+    "homonym": "blaze",
+    "judged_meaning": "a strong flame that burns brightly",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "309",
+    "homonym": "blaze",
+    "judged_meaning": "a cause of difficulty and suffering",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "310",
+    "homonym": "blaze",
+    "judged_meaning": "a strong flame that burns brightly",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "311",
+    "homonym": "blaze",
+    "judged_meaning": "a cause of difficulty and suffering",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "312",
+    "homonym": "snorted",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "313",
+    "homonym": "snorted",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "314",
+    "homonym": "snorted",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "315",
+    "homonym": "snorted",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "316",
+    "homonym": "snorted",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "317",
+    "homonym": "snorted",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "318",
+    "homonym": "snorted",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "319",
+    "homonym": "snorted",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "320",
+    "homonym": "snorted",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "321",
+    "homonym": "snorted",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "322",
+    "homonym": "snorted",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "323",
+    "homonym": "snorted",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "324",
+    "homonym": "snorted",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "325",
+    "homonym": "snorted",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "326",
+    "homonym": "snorted",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "327",
+    "homonym": "snorted",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "328",
+    "homonym": "snorted",
+    "judged_meaning": "make a snorting sound by exhaling hard",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "329",
+    "homonym": "snorted",
+    "judged_meaning": "inhale recreational drugs",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "330",
+    "homonym": "bank",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "331",
+    "homonym": "bank",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "332",
+    "homonym": "bank",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "333",
+    "homonym": "bank",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "334",
+    "homonym": "bank",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "335",
+    "homonym": "bank",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "336",
+    "homonym": "bank",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "337",
+    "homonym": "bank",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "338",
+    "homonym": "bank",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "339",
+    "homonym": "bank",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "340",
+    "homonym": "bank",
+    "judged_meaning": "sloping land (especially the slope beside a body of water)",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "341",
+    "homonym": "bank",
+    "judged_meaning": "a building in which the business of banking transacted",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "342",
+    "homonym": "pay",
+    "judged_meaning": "give money, usually in exchange for goods or services",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "343",
+    "homonym": "pay",
+    "judged_meaning": "bear (a cost or penalty), in recompense for some action",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "344",
+    "homonym": "pay",
+    "judged_meaning": "give money, usually in exchange for goods or services",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "345",
+    "homonym": "pay",
+    "judged_meaning": "bear (a cost or penalty), in recompense for some action",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "346",
+    "homonym": "pay",
+    "judged_meaning": "give money, usually in exchange for goods or services",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "347",
+    "homonym": "pay",
+    "judged_meaning": "bear (a cost or penalty), in recompense for some action",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "348",
+    "homonym": "peach",
+    "judged_meaning": "downy juicy fruit with sweet yellowish or whitish flesh",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "349",
+    "homonym": "peach",
+    "judged_meaning": "a very attractive or seductive looking woman",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "350",
+    "homonym": "peach",
+    "judged_meaning": "downy juicy fruit with sweet yellowish or whitish flesh",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "351",
+    "homonym": "peach",
+    "judged_meaning": "a very attractive or seductive looking woman",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "352",
+    "homonym": "peach",
+    "judged_meaning": "downy juicy fruit with sweet yellowish or whitish flesh",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "353",
+    "homonym": "peach",
+    "judged_meaning": "a very attractive or seductive looking woman",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "354",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "355",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "356",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "357",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "358",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "359",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "360",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "361",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "362",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "363",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "364",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "365",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "366",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "367",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "368",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "369",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "370",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "371",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "372",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "373",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "374",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "375",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "376",
+    "homonym": "flexible",
+    "judged_meaning": "capable of being changed",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "377",
+    "homonym": "flexible",
+    "judged_meaning": "able to flex; able to bend easily",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "378",
+    "homonym": "vision",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "379",
+    "homonym": "vision",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "380",
+    "homonym": "vision",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "381",
+    "homonym": "vision",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "382",
+    "homonym": "vision",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "383",
+    "homonym": "vision",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "384",
+    "homonym": "vision",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "385",
+    "homonym": "vision",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "386",
+    "homonym": "vision",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "387",
+    "homonym": "vision",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "388",
+    "homonym": "vision",
+    "judged_meaning": "the ability to see; the visual faculty",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "389",
+    "homonym": "vision",
+    "judged_meaning": "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "390",
+    "homonym": "pick",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "391",
+    "homonym": "pick",
+    "judged_meaning": "harass with constant criticism",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "392",
+    "homonym": "pick",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "393",
+    "homonym": "pick",
+    "judged_meaning": "harass with constant criticism",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "394",
+    "homonym": "pick",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "395",
+    "homonym": "pick",
+    "judged_meaning": "harass with constant criticism",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "396",
+    "homonym": "pick",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "397",
+    "homonym": "pick",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "398",
+    "homonym": "pick",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "399",
+    "homonym": "pick",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "400",
+    "homonym": "pick",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "401",
+    "homonym": "pick",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "402",
+    "homonym": "pick",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "403",
+    "homonym": "pick",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "404",
+    "homonym": "pick",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "405",
+    "homonym": "pick",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "406",
+    "homonym": "pick",
+    "judged_meaning": "select carefully from a group",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "407",
+    "homonym": "pick",
+    "judged_meaning": "pull lightly but sharply with a plucking motion",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "408",
+    "homonym": "croak",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "409",
+    "homonym": "croak",
+    "judged_meaning": "utter a hoarse sound, like a raven",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "410",
+    "homonym": "croak",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "411",
+    "homonym": "croak",
+    "judged_meaning": "utter a hoarse sound, like a raven",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "412",
+    "homonym": "croak",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "413",
+    "homonym": "croak",
+    "judged_meaning": "utter a hoarse sound, like a raven",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "414",
+    "homonym": "croaked",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "415",
+    "homonym": "croaked",
+    "judged_meaning": "make complaining remarks or noises under one's breath",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "416",
+    "homonym": "croaked",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "417",
+    "homonym": "croaked",
+    "judged_meaning": "make complaining remarks or noises under one's breath",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "418",
+    "homonym": "croaked",
+    "judged_meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "419",
+    "homonym": "croaked",
+    "judged_meaning": "make complaining remarks or noises under one's breath",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "420",
+    "homonym": "pile",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "421",
+    "homonym": "pile",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "422",
+    "homonym": "pile",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "423",
+    "homonym": "pile",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "424",
+    "homonym": "pile",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "425",
+    "homonym": "pile",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "426",
+    "homonym": "pile",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "427",
+    "homonym": "pile",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "428",
+    "homonym": "pile",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "429",
+    "homonym": "pile",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "430",
+    "homonym": "pile",
+    "judged_meaning": "the yarn (as in a rug or velvet or corduroy) that stands up from the weave",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "431",
+    "homonym": "pile",
+    "judged_meaning": "a large sum of money (especially as pay or profit)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "432",
+    "homonym": "rare",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "433",
+    "homonym": "rare",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "434",
+    "homonym": "rare",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "435",
+    "homonym": "rare",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "436",
+    "homonym": "rare",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "437",
+    "homonym": "rare",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "438",
+    "homonym": "rare",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "439",
+    "homonym": "rare",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "440",
+    "homonym": "rare",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "441",
+    "homonym": "rare",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "442",
+    "homonym": "rare",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "443",
+    "homonym": "rare",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "444",
+    "homonym": "rare",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "445",
+    "homonym": "rare",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "446",
+    "homonym": "rare",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "447",
+    "homonym": "rare",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "448",
+    "homonym": "rare",
+    "judged_meaning": "(of meat) cooked a short time; still red inside",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "449",
+    "homonym": "rare",
+    "judged_meaning": "recurring only at long intervals",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "450",
+    "homonym": "bill",
+    "judged_meaning": "an itemized statement of money owed for goods shipped or services rendered",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "451",
+    "homonym": "bill",
+    "judged_meaning": "horny projecting mouth of a bird",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "452",
+    "homonym": "bill",
+    "judged_meaning": "an itemized statement of money owed for goods shipped or services rendered",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "453",
+    "homonym": "bill",
+    "judged_meaning": "horny projecting mouth of a bird",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "454",
+    "homonym": "bill",
+    "judged_meaning": "an itemized statement of money owed for goods shipped or services rendered",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "455",
+    "homonym": "bill",
+    "judged_meaning": "horny projecting mouth of a bird",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "456",
+    "homonym": "up",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "457",
+    "homonym": "up",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "458",
+    "homonym": "up",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "459",
+    "homonym": "up",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "460",
+    "homonym": "up",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "461",
+    "homonym": "up",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "462",
+    "homonym": "up",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "463",
+    "homonym": "up",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "464",
+    "homonym": "up",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "465",
+    "homonym": "up",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "466",
+    "homonym": "up",
+    "judged_meaning": "out of bed",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "467",
+    "homonym": "up",
+    "judged_meaning": "(usually followed by 'on' or 'for') in readiness",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "468",
+    "homonym": "point",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "469",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "470",
+    "homonym": "point",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "471",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "472",
+    "homonym": "point",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "473",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "474",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "475",
+    "homonym": "point",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "476",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "477",
+    "homonym": "point",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "478",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "479",
+    "homonym": "point",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "480",
+    "homonym": "point",
+    "judged_meaning": "the object of an activity",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "481",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "482",
+    "homonym": "point",
+    "judged_meaning": "the object of an activity",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "483",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "484",
+    "homonym": "point",
+    "judged_meaning": "the object of an activity",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "485",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "486",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "487",
+    "homonym": "point",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "488",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "489",
+    "homonym": "point",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "490",
+    "homonym": "point",
+    "judged_meaning": "sharp end",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "491",
+    "homonym": "point",
+    "judged_meaning": "a brief version of the essential meaning of something",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "492",
+    "homonym": "plant",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "493",
+    "homonym": "plant",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "494",
+    "homonym": "plant",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "495",
+    "homonym": "plant",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "496",
+    "homonym": "plant",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "497",
+    "homonym": "plant",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "498",
+    "homonym": "plant",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "499",
+    "homonym": "plant",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "500",
+    "homonym": "plant",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "501",
+    "homonym": "plant",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "502",
+    "homonym": "plant",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "503",
+    "homonym": "plant",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "504",
+    "homonym": "plant",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "505",
+    "homonym": "plant",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "506",
+    "homonym": "plant",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "507",
+    "homonym": "plant",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "508",
+    "homonym": "plant",
+    "judged_meaning": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "509",
+    "homonym": "plant",
+    "judged_meaning": "(botany) a living organism lacking the power of locomotion",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "510",
+    "homonym": "picture",
+    "judged_meaning": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "511",
+    "homonym": "picture",
+    "judged_meaning": "a situation treated as an observable object",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "512",
+    "homonym": "picture",
+    "judged_meaning": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "513",
+    "homonym": "picture",
+    "judged_meaning": "a situation treated as an observable object",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "514",
+    "homonym": "picture",
+    "judged_meaning": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "515",
+    "homonym": "picture",
+    "judged_meaning": "a situation treated as an observable object",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "516",
+    "homonym": "pictured",
+    "judged_meaning": "imagine; conceive of; see in one's mind",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "517",
+    "homonym": "pictured",
+    "judged_meaning": "show in, or as in, a picture",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "518",
+    "homonym": "pictured",
+    "judged_meaning": "imagine; conceive of; see in one's mind",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "519",
+    "homonym": "pictured",
+    "judged_meaning": "show in, or as in, a picture",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "520",
+    "homonym": "pictured",
+    "judged_meaning": "imagine; conceive of; see in one's mind",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "521",
+    "homonym": "pictured",
+    "judged_meaning": "show in, or as in, a picture",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "522",
+    "homonym": "goal",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "523",
+    "homonym": "goal",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "524",
+    "homonym": "goal",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "525",
+    "homonym": "goal",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "526",
+    "homonym": "goal",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "527",
+    "homonym": "goal",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "528",
+    "homonym": "goal",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "529",
+    "homonym": "goal",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "530",
+    "homonym": "goal",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "531",
+    "homonym": "goal",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "532",
+    "homonym": "goal",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "533",
+    "homonym": "goal",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "534",
+    "homonym": "goal",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "535",
+    "homonym": "goal",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "536",
+    "homonym": "goal",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "537",
+    "homonym": "goal",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "538",
+    "homonym": "goal",
+    "judged_meaning": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "539",
+    "homonym": "goal",
+    "judged_meaning": "a successful attempt at scoring",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "540",
+    "homonym": "logs",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "541",
+    "homonym": "logs",
+    "judged_meaning": "a written record of messages sent or received",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "542",
+    "homonym": "logs",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "543",
+    "homonym": "logs",
+    "judged_meaning": "a written record of messages sent or received",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "544",
+    "homonym": "logs",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "545",
+    "homonym": "logs",
+    "judged_meaning": "a written record of messages sent or received",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "546",
+    "homonym": "log",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "547",
+    "homonym": "log",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "548",
+    "homonym": "log",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "549",
+    "homonym": "log",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "550",
+    "homonym": "log",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "551",
+    "homonym": "log",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "552",
+    "homonym": "logs",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "553",
+    "homonym": "logs",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "554",
+    "homonym": "logs",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "555",
+    "homonym": "logs",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "556",
+    "homonym": "logs",
+    "judged_meaning": "a segment of the trunk of a tree when stripped of branches",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "557",
+    "homonym": "logs",
+    "judged_meaning": "a written record of events on a voyage (of a ship or plane)",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "558",
+    "homonym": "identities",
+    "judged_meaning": "the distinct personality of an individual regarded as a persisting entity",
+    "model_raw_output": "2",
+    "model_score": 2,
+    "api_error": null
+  },
+  {
+    "id": "559",
+    "homonym": "identities",
+    "judged_meaning": "an operator that leaves unchanged the element on which it operates",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "560",
+    "homonym": "identities",
+    "judged_meaning": "the distinct personality of an individual regarded as a persisting entity",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "561",
+    "homonym": "identities",
+    "judged_meaning": "an operator that leaves unchanged the element on which it operates",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "562",
+    "homonym": "identities",
+    "judged_meaning": "the distinct personality of an individual regarded as a persisting entity",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "563",
+    "homonym": "identities",
+    "judged_meaning": "an operator that leaves unchanged the element on which it operates",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "564",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "565",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "566",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "567",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "568",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "569",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "570",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "571",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "572",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "573",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "574",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "575",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "576",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "577",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "578",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "579",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "580",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "4",
+    "model_score": 4,
+    "api_error": null
+  },
+  {
+    "id": "581",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "582",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "583",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  },
+  {
+    "id": "584",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "585",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "5",
+    "model_score": 5,
+    "api_error": null
+  },
+  {
+    "id": "586",
+    "homonym": "trailer",
+    "judged_meaning": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "model_raw_output": "1",
+    "model_score": 1,
+    "api_error": null
+  },
+  {
+    "id": "587",
+    "homonym": "trailer",
+    "judged_meaning": "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy",
+    "model_raw_output": "3",
+    "model_score": 3,
+    "api_error": null
+  }
+]

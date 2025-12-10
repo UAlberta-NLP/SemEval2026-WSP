@@ -1,0 +1,20 @@
+{
+  "context_id": "452",
+  "homonym": "bill",
+  "precontext": "Emma sat at the quaint corner cafe, enjoying her afternoon tea. She absentmindedly watched as a few birds fluttered onto the nearby tables. A waiter approached her table, ready to deliver a piece of paper.",
+  "sentence": "The bill made contact with the table in a quick manner.",
+  "ending": "Emma jumped quickly, as she thought the bird was going to eat her afternoon tea.",
+  "meanings_considered": [
+    "an itemized statement of money owed for goods shipped or services rendered",
+    "horny projecting mouth of a bird"
+  ],
+  "explanation": "• The precontext describes a cafe setting with birds and a waiter, making the financial \"bill\" (meaning 1) a likely candidate as the waiter delivers a paper invoice.  \n• The sentence \"The bill made contact with the table\" literally describes a physical object touching the table, which fits the bird's beak (meaning 2) as a physical structure, especially given the birds are present.  \n• The ending clarifies that Emma feared the bird would eat her tea, confirming the bird's presence and action, which supports the interpretation of \"bill\" as a bird's beak, not a financial document.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "horny projecting mouth of a bird",
+  "original_keys": [
+    "452",
+    "453"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: bill\n\nPOSSIBLE MEANINGS:\n1. an itemized statement of money owed for goods shipped or services rendered (e.g., \"She received the bill yesterday.\")\n2. horny projecting mouth of a bird (e.g., \"The bird used its bill to forage.\")\n\nCONTEXT:\nPrecontext: Emma sat at the quaint corner cafe, enjoying her afternoon tea. She absentmindedly watched as a few birds fluttered onto the nearby tables. A waiter approached her table, ready to deliver a piece of paper.\nSentence containing the homonym: The bill made contact with the table in a quick manner.\nEnding: Emma jumped quickly, as she thought the bird was going to eat her afternoon tea.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes a cafe setting with birds and a waiter, making the financial \"bill\" (meaning 1) a likely candidate as the waiter delivers a paper invoice.  \n• The sentence \"The bill made contact with the table\" literally describes a physical object touching the table, which fits the bird's beak (meaning 2) as a physical structure, especially given the birds are present.  \n• The ending clarifies that Emma feared the bird would eat her tea, confirming the bird's presence and action, which supports the interpretation of \"bill\" as a bird's beak, not a financial document.  \n\nJUDGMENT: CLEAR - 2"
+}

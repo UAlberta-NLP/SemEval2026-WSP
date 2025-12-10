@@ -1,0 +1,20 @@
+{
+  "context_id": "244",
+  "homonym": "fiddle",
+  "precontext": "Rachel and Tom had been friends since childhood. They often found themselves overwhelmed by their daily responsibilities. One day, they came across an old violin in the attic.",
+  "sentence": "They both decided to fiddle together.",
+  "ending": "",
+  "meanings_considered": [
+    "avoid (one's assigned duties)",
+    "play the violin or fiddle"
+  ],
+  "explanation": "• The precontext mentions an old violin in the attic, strongly suggesting that \"fiddle\" refers to playing the violin.  \n• \"Fiddle\" as a verb meaning \"to avoid duties\" does not align with the context of finding a violin and deciding to \"fiddle together.\"  \n• The phrase \"fiddle together\" in the context of an old violin is a natural and common expression for playing music, making the musical meaning highly plausible.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "play the violin or fiddle",
+  "original_keys": [
+    "244",
+    "245"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: fiddle\n\nPOSSIBLE MEANINGS:\n1. avoid (one's assigned duties) (e.g., \"He decided to fiddle with his responsibilities.\")\n2. play the violin or fiddle (e.g., \"She loves to fiddle at night.\")\n\nCONTEXT:\nPrecontext: Rachel and Tom had been friends since childhood. They often found themselves overwhelmed by their daily responsibilities. One day, they came across an old violin in the attic.\nSentence containing the homonym: They both decided to fiddle together.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext mentions an old violin in the attic, strongly suggesting that \"fiddle\" refers to playing the violin.  \n• \"Fiddle\" as a verb meaning \"to avoid duties\" does not align with the context of finding a violin and deciding to \"fiddle together.\"  \n• The phrase \"fiddle together\" in the context of an old violin is a natural and common expression for playing music, making the musical meaning highly plausible.  \n\nJUDGMENT: CLEAR - 2"
+}

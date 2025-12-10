@@ -1,0 +1,20 @@
+{
+  "context_id": "156",
+  "homonym": "fallout",
+  "precontext": "Jack was nervous when he heard the sirens. The meeting at the facility hadn't gone as planned. People looked worried as they filed out of the room.",
+  "sentence": "There was a lot of fallout from the whole situation.",
+  "ending": "Radioactive ash was everywhere: on the floor, on the tables, on the shoulders of people's jackets, and even in their hair.",
+  "meanings_considered": [
+    "the radioactive particles that settle to the ground after a nuclear explosion",
+    "any adverse and unwanted secondary effect"
+  ],
+  "explanation": "• The precontext describes a failed meeting and worried people, suggesting a negative consequence, which aligns well with meaning 2 (adverse secondary effects).  \n• The ending explicitly mentions \"radioactive ash\" and physical contamination, directly supporting meaning 1 (nuclear fallout).  \n• The sentence \"There was a lot of fallout from the whole situation\" is used in a general, non-specific way, but the ending confirms a literal, physical, radioactive outcome, making meaning 1 the only one consistent with the full context.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "the radioactive particles that settle to the ground after a nuclear explosion",
+  "original_keys": [
+    "156",
+    "157"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: fallout\n\nPOSSIBLE MEANINGS:\n1. the radioactive particles that settle to the ground after a nuclear explosion (e.g., \"The fallout from the explosion contaminated nearby soil.\")\n2. any adverse and unwanted secondary effect (e.g., \"The scandal had significant financial fallout.\")\n\nCONTEXT:\nPrecontext: Jack was nervous when he heard the sirens. The meeting at the facility hadn't gone as planned. People looked worried as they filed out of the room.\nSentence containing the homonym: There was a lot of fallout from the whole situation.\nEnding: Radioactive ash was everywhere: on the floor, on the tables, on the shoulders of people's jackets, and even in their hair.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes a failed meeting and worried people, suggesting a negative consequence, which aligns well with meaning 2 (adverse secondary effects).  \n• The ending explicitly mentions \"radioactive ash\" and physical contamination, directly supporting meaning 1 (nuclear fallout).  \n• The sentence \"There was a lot of fallout from the whole situation\" is used in a general, non-specific way, but the ending confirms a literal, physical, radioactive outcome, making meaning 1 the only one consistent with the full context.  \n\nJUDGMENT: CLEAR - 1"
+}

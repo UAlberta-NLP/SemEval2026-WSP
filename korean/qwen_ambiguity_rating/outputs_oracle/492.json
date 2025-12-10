@@ -1,0 +1,20 @@
+{
+  "context_id": "492",
+  "homonym": "plant",
+  "precontext": "Tom was eager to blend in at the comedy show. He settled into one of the middle rows of the theater, trying not to draw attention. The large venue was buzzing with anticipation as people took their seats.",
+  "sentence": "The guy in the crowd appeared to be next to a plant.",
+  "ending": "And not a very good one, because he was nervously reading his script.",
+  "meanings_considered": [
+    "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "(botany) a living organism lacking the power of locomotion"
+  ],
+  "explanation": "• The precontext describes a comedy show setting where audience members are present, making the meaning of \"plant\" as an actor in the audience highly plausible.  \n• The phrase \"next to a plant\" in a crowd setting is more naturally interpreted as a person (actor) rather than a botanical entity, given the absence of any mention of gardening or plants in the environment.  \n• The ending clarifies that the guy was nervously reading his script, which strongly supports the interpretation of \"plant\" as a performer, not a living organism.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+  "original_keys": [
+    "492",
+    "493"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: plant\n\nPOSSIBLE MEANINGS:\n1. an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience (e.g., \"The comedian used a plant in the crowd.\")\n2. (botany) a living organism lacking the power of locomotion (e.g., \"The garden has a beautiful plant.\")\n\nCONTEXT:\nPrecontext: Tom was eager to blend in at the comedy show. He settled into one of the middle rows of the theater, trying not to draw attention. The large venue was buzzing with anticipation as people took their seats.\nSentence containing the homonym: The guy in the crowd appeared to be next to a plant.\nEnding: And not a very good one, because he was nervously reading his script.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes a comedy show setting where audience members are present, making the meaning of \"plant\" as an actor in the audience highly plausible.  \n• The phrase \"next to a plant\" in a crowd setting is more naturally interpreted as a person (actor) rather than a botanical entity, given the absence of any mention of gardening or plants in the environment.  \n• The ending clarifies that the guy was nervously reading his script, which strongly supports the interpretation of \"plant\" as a performer, not a living organism.  \n\nJUDGMENT: CLEAR - 1"
+}

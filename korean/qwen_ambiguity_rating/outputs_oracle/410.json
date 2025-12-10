@@ -1,0 +1,20 @@
+{
+  "context_id": "410",
+  "homonym": "croak",
+  "precontext": "Lily was sitting by the pond, listening to the gentle rustling of the leaves. She had been visiting this spot every day, hoping to see some wildlife. A frog appeared on a rock, looking still and mysterious.",
+  "sentence": "The frog began to croak.",
+  "ending": "It sounded like \"Ribbit, ribbit, ribbit.\"",
+  "meanings_considered": [
+    "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "utter a hoarse sound, like a raven"
+  ],
+  "explanation": "• The precontext describes a frog appearing at a pond, which is a common setting for frogs making croaking sounds.  \n• The sentence \"The frog began to croak\" is a typical biological behavior for frogs, aligning with meaning 2 (uttering a hoarse sound).  \n• The ending \"It sounded like 'Ribbit, ribbit, ribbit'\" confirms the sound is a frog vocalization, directly supporting meaning 2 and ruling out meaning 1 (death).",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "utter a hoarse sound, like a raven",
+  "original_keys": [
+    "410",
+    "411"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: croak\n\nPOSSIBLE MEANINGS:\n1. pass from physical life and lose all bodily attributes and functions necessary to sustain life (e.g., \"He feared he might croak soon.\")\n2. utter a hoarse sound, like a raven (e.g., \"The raven began to croak loudly.\")\n\nCONTEXT:\nPrecontext: Lily was sitting by the pond, listening to the gentle rustling of the leaves. She had been visiting this spot every day, hoping to see some wildlife. A frog appeared on a rock, looking still and mysterious.\nSentence containing the homonym: The frog began to croak.\nEnding: It sounded like \"Ribbit, ribbit, ribbit.\"\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes a frog appearing at a pond, which is a common setting for frogs making croaking sounds.  \n• The sentence \"The frog began to croak\" is a typical biological behavior for frogs, aligning with meaning 2 (uttering a hoarse sound).  \n• The ending \"It sounded like 'Ribbit, ribbit, ribbit'\" confirms the sound is a frog vocalization, directly supporting meaning 2 and ruling out meaning 1 (death).  \n\nJUDGMENT: CLEAR - 2"
+}

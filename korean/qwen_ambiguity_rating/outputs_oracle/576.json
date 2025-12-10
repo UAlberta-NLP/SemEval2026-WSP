@@ -1,0 +1,20 @@
+{
+  "context_id": "576",
+  "homonym": "trailer",
+  "precontext": "Jack and Emily decided to enjoy a night under the stars. They parked their car at the drive-in's first row for the best view. As the sun set, they settled in with popcorn and drinks.",
+  "sentence": "At the drive-in movie, they looked at the trailer in front of them.",
+  "ending": "Emily was interested in purchasing the perfume in the ad.",
+  "meanings_considered": [
+    "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy"
+  ],
+  "explanation": "• The precontext describes a drive-in movie setting, where \"trailer\" as a movie advertisement is a natural and expected usage.  \n• \"Trailer\" as a vehicle is inconsistent with the context: the sentence says they \"looked at the trailer in front of them,\" which refers to something visible at the drive-in, not a vehicle they own or are using.  \n• The ending mentions \"the perfume in the ad,\" which confirms that \"trailer\" refers to a promotional advertisement, not a vehicle.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+  "original_keys": [
+    "576",
+    "577"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: trailer\n\nPOSSIBLE MEANINGS:\n1. an advertisement consisting of short scenes from a motion picture that will appear in the near future (e.g., \"I watched the new movie trailer online.\")\n2. a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy (e.g., \"They traveled cross-country in their trailer.\")\n\nCONTEXT:\nPrecontext: Jack and Emily decided to enjoy a night under the stars. They parked their car at the drive-in's first row for the best view. As the sun set, they settled in with popcorn and drinks.\nSentence containing the homonym: At the drive-in movie, they looked at the trailer in front of them.\nEnding: Emily was interested in purchasing the perfume in the ad.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes a drive-in movie setting, where \"trailer\" as a movie advertisement is a natural and expected usage.  \n• \"Trailer\" as a vehicle is inconsistent with the context: the sentence says they \"looked at the trailer in front of them,\" which refers to something visible at the drive-in, not a vehicle they own or are using.  \n• The ending mentions \"the perfume in the ad,\" which confirms that \"trailer\" refers to a promotional advertisement, not a vehicle.  \n\nJUDGMENT: CLEAR - 1"
+}

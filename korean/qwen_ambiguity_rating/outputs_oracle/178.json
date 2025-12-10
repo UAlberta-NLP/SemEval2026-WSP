@@ -1,0 +1,20 @@
+{
+  "context_id": "178",
+  "homonym": "hops",
+  "precontext": "Ana loved her garden. She spent hours planting different kinds of seeds. Every day, she would practice her jumps over the small fence.",
+  "sentence": "Ana had lots of hops.",
+  "ending": "",
+  "meanings_considered": [
+    "twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer",
+    "the act of hopping; jumping upward or forward (especially on one foot)"
+  ],
+  "explanation": "• The precontext mentions Ana’s garden and her practice of jumping over a fence, strongly suggesting a connection to physical movement  \n• \"Hops\" as a plant is not directly linked to the actions described in the precontext, which focuses on gardening and jumping  \n• The sentence \"Ana had lots of hops\" following a narrative about gardening and jumping is more naturally interpreted as referring to the physical act of jumping, not the plant",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "the act of hopping; jumping upward or forward (especially on one foot)",
+  "original_keys": [
+    "178",
+    "179"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: hops\n\nPOSSIBLE MEANINGS:\n1. twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer (e.g., \"The brewer selected fresh hops for flavor.\")\n2. the act of hopping; jumping upward or forward (especially on one foot) (e.g., \"The frog made a quick hop.\")\n\nCONTEXT:\nPrecontext: Ana loved her garden. She spent hours planting different kinds of seeds. Every day, she would practice her jumps over the small fence.\nSentence containing the homonym: Ana had lots of hops.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext mentions Ana’s garden and her practice of jumping over a fence, strongly suggesting a connection to physical movement  \n• \"Hops\" as a plant is not directly linked to the actions described in the precontext, which focuses on gardening and jumping  \n• The sentence \"Ana had lots of hops\" following a narrative about gardening and jumping is more naturally interpreted as referring to the physical act of jumping, not the plant  \n\nJUDGMENT: CLEAR - 2"
+}

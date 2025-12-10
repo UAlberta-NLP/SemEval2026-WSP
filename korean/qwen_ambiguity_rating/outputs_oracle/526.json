@@ -1,0 +1,20 @@
+{
+  "context_id": "526",
+  "homonym": "goal",
+  "precontext": "The anticipation in the air was palpable as the crowd gathered in the stadium. He trained hard for months and his determination never wavered. Everyone knew how important this day was to him.",
+  "sentence": "He was successful in achieving his goal in the match.",
+  "ending": "",
+  "meanings_considered": [
+    "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+    "a successful attempt at scoring"
+  ],
+  "explanation": "• The precontext emphasizes training, determination, and the importance of the day, suggesting a personal or aspirational objective that has been achieved.  \n• The phrase \"achieving his goal in the match\" strongly implies a specific outcome in a competitive event, aligning with the sports meaning of \"goal\" as a successful scoring attempt.  \n• The use of \"achieving his goal\" in a match context is more naturally interpreted as accomplishing a score than as reaching a personal objective, given the setting and the mention of training and competition.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "a successful attempt at scoring",
+  "original_keys": [
+    "526",
+    "527"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: goal\n\nPOSSIBLE MEANINGS:\n1. the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it (e.g., \"Achieving your goal is essential for success.\")\n2. a successful attempt at scoring (e.g., \"She scored the winning goal yesterday.\")\n\nCONTEXT:\nPrecontext: The anticipation in the air was palpable as the crowd gathered in the stadium. He trained hard for months and his determination never wavered. Everyone knew how important this day was to him.\nSentence containing the homonym: He was successful in achieving his goal in the match.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext emphasizes training, determination, and the importance of the day, suggesting a personal or aspirational objective that has been achieved.  \n• The phrase \"achieving his goal in the match\" strongly implies a specific outcome in a competitive event, aligning with the sports meaning of \"goal\" as a successful scoring attempt.  \n• The use of \"achieving his goal\" in a match context is more naturally interpreted as accomplishing a score than as reaching a personal objective, given the setting and the mention of training and competition.  \n\nJUDGMENT: CLEAR - 2"
+}

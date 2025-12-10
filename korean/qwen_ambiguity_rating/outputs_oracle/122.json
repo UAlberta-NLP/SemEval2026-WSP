@@ -1,0 +1,20 @@
+{
+  "context_id": "122",
+  "homonym": "downhill",
+  "precontext": "John started a biking adventure last month. He rides past the local marketplace on his favorite track. Recently, people have noticed fewer stalls on his route.",
+  "sentence": "The market has been downhill lately, and this is really affecting John.",
+  "ending": "He preferred them when they were farther uphill.",
+  "meanings_considered": [
+    "toward a lower or inferior state",
+    "toward the bottom of a hill"
+  ],
+  "explanation": "• The precontext about John biking and the market having fewer stalls suggests a decline in the market's condition, supporting meaning 1 (toward a lower or inferior state).  \n• The phrase \"downhill lately\" in the sentence is used to describe a trend in the market's state, not a physical location, aligning with meaning 1.  \n• The ending \"He preferred them when they were farther uphill\" clearly refers to physical location (bike route), reinforcing that \"uphill\" and \"downhill\" are spatial directions, which supports meaning 2, but the sentence itself describes a market trend, not a physical route.",
+  "judgment": "AMBIGUOUS",
+  "clear_meaning_index": null,
+  "clear_meaning_text": null,
+  "original_keys": [
+    "122",
+    "123"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: downhill\n\nPOSSIBLE MEANINGS:\n1. toward a lower or inferior state (e.g., \"His health has been going downhill lately.\")\n2. toward the bottom of a hill (e.g., \"The bike raced downhill with speed.\")\n\nCONTEXT:\nPrecontext: John started a biking adventure last month. He rides past the local marketplace on his favorite track. Recently, people have noticed fewer stalls on his route.\nSentence containing the homonym: The market has been downhill lately, and this is really affecting John.\nEnding: He preferred them when they were farther uphill.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext about John biking and the market having fewer stalls suggests a decline in the market's condition, supporting meaning 1 (toward a lower or inferior state).  \n• The phrase \"downhill lately\" in the sentence is used to describe a trend in the market's state, not a physical location, aligning with meaning 1.  \n• The ending \"He preferred them when they were farther uphill\" clearly refers to physical location (bike route), reinforcing that \"uphill\" and \"downhill\" are spatial directions, which supports meaning 2, but the sentence itself describes a market trend, not a physical route.  \n\nJUDGMENT: AMBIGUOUS"
+}

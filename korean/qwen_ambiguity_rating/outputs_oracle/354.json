@@ -1,0 +1,20 @@
+{
+  "context_id": "354",
+  "homonym": "flexible",
+  "precontext": "\nThe circus was in town for a month-long stay. The trapeze act was the main attraction, but they were looking for a new performer. The applicants had to meet several requirements before they could audition.",
+  "sentence": "To succeed in this position, one needs to be flexible.",
+  "ending": "There are several showtimes, and they vary across different days.",
+  "meanings_considered": [
+    "capable of being changed",
+    "able to flex; able to bend easily"
+  ],
+  "explanation": "• \"Flexible\" referring to being capable of being changed fits well in the context of job requirements and performer selection, where adaptability is a key trait.  \n• \"Flexible\" meaning able to bend easily is less plausible because the context is about job performance, not physical properties of performers or equipment.  \n• The precontext emphasizes organizational and performance requirements, not physical attributes, making the behavioral meaning more contextually grounded.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "capable of being changed",
+  "original_keys": [
+    "354",
+    "355"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: flexible\n\nPOSSIBLE MEANINGS:\n1. capable of being changed (e.g., \"She has a flexible work schedule.\")\n2. able to flex; able to bend easily (e.g., \"The flexible branches swayed in the breeze.\")\n\nCONTEXT:\nPrecontext: \nThe circus was in town for a month-long stay. The trapeze act was the main attraction, but they were looking for a new performer. The applicants had to meet several requirements before they could audition.\nSentence containing the homonym: To succeed in this position, one needs to be flexible.\nEnding: There are several showtimes, and they vary across different days.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Flexible\" referring to being capable of being changed fits well in the context of job requirements and performer selection, where adaptability is a key trait.  \n• \"Flexible\" meaning able to bend easily is less plausible because the context is about job performance, not physical properties of performers or equipment.  \n• The precontext emphasizes organizational and performance requirements, not physical attributes, making the behavioral meaning more contextually grounded.  \nJUDGMENT: CLEAR - 1"
+}

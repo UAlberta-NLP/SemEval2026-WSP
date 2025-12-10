@@ -1,0 +1,20 @@
+{
+  "context_id": "470",
+  "homonym": "point",
+  "precontext": "Tom was deep in thought as he faced the cluttered shelf. On it, there lay a map rolled up beside an old hunting knife. He knew he had to make his decision now.",
+  "sentence": "He got to the point.",
+  "ending": "He took both the map and the knife, and decided he would start work right away.",
+  "meanings_considered": [
+    "a brief version of the essential meaning of something",
+    "sharp end"
+  ],
+  "explanation": "• \"Make your point clearly\" fits the context as Tom is making a decision, implying he needs to convey a key idea or conclusion.  \n• \"Sharp end\" of a knife is physically present in the precontext (old hunting knife), making the literal \"point\" as a sharp end plausible.  \n• The sentence \"He got to the point\" in the context of decision-making is more natural than referring to the knife's sharp end, which would be redundantly stated or awkwardly phrased.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "a brief version of the essential meaning of something",
+  "original_keys": [
+    "470",
+    "471"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: point\n\nPOSSIBLE MEANINGS:\n1. a brief version of the essential meaning of something (e.g., \"Make your point clearly and concisely.\")\n2. sharp end (e.g., \"He carefully carved the point of the stick.\")\n\nCONTEXT:\nPrecontext: Tom was deep in thought as he faced the cluttered shelf. On it, there lay a map rolled up beside an old hunting knife. He knew he had to make his decision now.\nSentence containing the homonym: He got to the point.\nEnding: He took both the map and the knife, and decided he would start work right away.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Make your point clearly\" fits the context as Tom is making a decision, implying he needs to convey a key idea or conclusion.  \n• \"Sharp end\" of a knife is physically present in the precontext (old hunting knife), making the literal \"point\" as a sharp end plausible.  \n• The sentence \"He got to the point\" in the context of decision-making is more natural than referring to the knife's sharp end, which would be redundantly stated or awkwardly phrased.  \n\nJUDGMENT: CLEAR - 1"
+}

@@ -1,0 +1,20 @@
+{
+  "context_id": "236",
+  "homonym": "branch",
+  "precontext": "They decided to take a trip to the countryside. Nearby, there was a small outpost that piqued their interest. They heard it was known for its outstanding features.",
+  "sentence": "The big branch was very close to where they were staying.",
+  "ending": "This is very convenient since they will have more to offer.",
+  "meanings_considered": [
+    "a division of a stem, or secondary stem arising from the main stem of a plant",
+    "a division of some larger or more complex organization"
+  ],
+  "explanation": "• The precontext mentions a \"small outpost\" in the countryside, making a geographical or physical structure (like a branch of a tree) unlikely, as outposts are human-made structures.  \n• \"Branch\" as a division of an organization (e.g., a branch office) fits better with the idea of a \"small outpost\" that is part of a larger system, such as a government or company.  \n• The ending states \"this is very convenient since they will have more to offer,\" which suggests a functional or service-based entity, supporting the organizational meaning over a plant part.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "a division of some larger or more complex organization",
+  "original_keys": [
+    "236",
+    "237"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: branch\n\nPOSSIBLE MEANINGS:\n1. a division of a stem, or secondary stem arising from the main stem of a plant (e.g., \"The tree's branch swayed gently in the wind.\")\n2. a division of some larger or more complex organization (e.g., \"The committee is part of a larger branch.\")\n\nCONTEXT:\nPrecontext: They decided to take a trip to the countryside. Nearby, there was a small outpost that piqued their interest. They heard it was known for its outstanding features.\nSentence containing the homonym: The big branch was very close to where they were staying.\nEnding: This is very convenient since they will have more to offer.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext mentions a \"small outpost\" in the countryside, making a geographical or physical structure (like a branch of a tree) unlikely, as outposts are human-made structures.  \n• \"Branch\" as a division of an organization (e.g., a branch office) fits better with the idea of a \"small outpost\" that is part of a larger system, such as a government or company.  \n• The ending states \"this is very convenient since they will have more to offer,\" which suggests a functional or service-based entity, supporting the organizational meaning over a plant part.  \nJUDGMENT: CLEAR - 2"
+}

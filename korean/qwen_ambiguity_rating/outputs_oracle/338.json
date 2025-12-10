@@ -1,0 +1,20 @@
+{
+  "context_id": "338",
+  "homonym": "bank",
+  "precontext": "Joe woke up early, excited for the day ahead. He had promised Peter they would settle a matter once and for all. The weather was perfect for their meeting place.",
+  "sentence": "Joe was to meet Peter at the bank that morning.",
+  "ending": "He waited patiently until Peter arrived.",
+  "meanings_considered": [
+    "sloping land (especially the slope beside a body of water)",
+    "a building in which the business of banking transacted"
+  ],
+  "explanation": "• The precontext mentions Joe and Peter meeting \"at the bank\" to settle a matter, which strongly suggests a meeting place, aligning with the meaning of a financial institution.  \n• The phrase \"settle a matter once and for all\" is typical of a formal meeting, not a natural setting by a river, making the financial institution meaning more plausible.  \n• The ending states Joe \"waited patiently until Peter arrived,\" which fits a meeting location like a bank, not a geographical feature like a riverbank.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "a building in which the business of banking transacted",
+  "original_keys": [
+    "338",
+    "339"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: bank\n\nPOSSIBLE MEANINGS:\n1. sloping land (especially the slope beside a body of water) (e.g., \"The children played near the riverbank.\")\n2. a building in which the business of banking transacted (e.g., \"She visited the bank to deposit money.\")\n\nCONTEXT:\nPrecontext: Joe woke up early, excited for the day ahead. He had promised Peter they would settle a matter once and for all. The weather was perfect for their meeting place.\nSentence containing the homonym: Joe was to meet Peter at the bank that morning.\nEnding: He waited patiently until Peter arrived.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext mentions Joe and Peter meeting \"at the bank\" to settle a matter, which strongly suggests a meeting place, aligning with the meaning of a financial institution.  \n• The phrase \"settle a matter once and for all\" is typical of a formal meeting, not a natural setting by a river, making the financial institution meaning more plausible.  \n• The ending states Joe \"waited patiently until Peter arrived,\" which fits a meeting location like a bank, not a geographical feature like a riverbank.  \n\nJUDGMENT: CLEAR - 2"
+}

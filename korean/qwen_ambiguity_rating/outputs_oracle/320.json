@@ -1,0 +1,20 @@
+{
+  "context_id": "320",
+  "homonym": "snorted",
+  "precontext": "Tom stumbled into the dimly lit room, his head spinning from exhaustion. The party had been wild, and the music still echoed in his mind. He leaned against the wall, trying to steady himself in the quiet that followed.",
+  "sentence": "He snorted and heard a loud noise from outside.",
+  "ending": "The substance that went up his nose made him feel paranoid.",
+  "meanings_considered": [
+    "make a snorting sound by exhaling hard",
+    "inhale recreational drugs"
+  ],
+  "explanation": "• \"He snorted\" as a sound (exhaling hard) fits naturally in the quiet, post-party scene and aligns with physical reactions to exhaustion and loud music.  \n• \"He snorted\" as drug inhalation is inconsistent with the precontext, which emphasizes exhaustion and a chaotic party, not drug use, and is contradicted by the ending stating the substance went up his nose.  \n• The ending explicitly confirms drug inhalation (\"substance that went up his nose\"), which directly supports meaning #2 and makes meaning #1 a contradiction in terms.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "inhale recreational drugs",
+  "original_keys": [
+    "320",
+    "321"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: snorted\n\nPOSSIBLE MEANINGS:\n1. make a snorting sound by exhaling hard (e.g., \"He snorted in disbelief at the news.\")\n2. inhale recreational drugs (e.g., \"He was caught snorting powder in the bathroom.\")\n\nCONTEXT:\nPrecontext: Tom stumbled into the dimly lit room, his head spinning from exhaustion. The party had been wild, and the music still echoed in his mind. He leaned against the wall, trying to steady himself in the quiet that followed.\nSentence containing the homonym: He snorted and heard a loud noise from outside.\nEnding: The substance that went up his nose made him feel paranoid.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"He snorted\" as a sound (exhaling hard) fits naturally in the quiet, post-party scene and aligns with physical reactions to exhaustion and loud music.  \n• \"He snorted\" as drug inhalation is inconsistent with the precontext, which emphasizes exhaustion and a chaotic party, not drug use, and is contradicted by the ending stating the substance went up his nose.  \n• The ending explicitly confirms drug inhalation (\"substance that went up his nose\"), which directly supports meaning #2 and makes meaning #1 a contradiction in terms.  \n\nJUDGMENT: CLEAR - 2"
+}

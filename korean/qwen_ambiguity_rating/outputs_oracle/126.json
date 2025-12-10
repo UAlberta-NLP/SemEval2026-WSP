@@ -1,0 +1,20 @@
+{
+  "context_id": "126",
+  "homonym": "downhill",
+  "precontext": "John had set out on his morning run with high hopes. The path led him through the park, past the towering trees and lush hills. As he picked up speed, he could feel a change in the air.",
+  "sentence": "Things were going downhill.",
+  "ending": "He struggled to fight against gravity and keep his balance as he ran.",
+  "meanings_considered": [
+    "toward the bottom of a hill",
+    "toward a lower or inferior state"
+  ],
+  "explanation": "• \"Things were going downhill\" refers to a decline in John's physical condition or mood, not a physical path, given the precontext of a morning run and the ending describing struggle with balance and gravity.  \n• The physical path context (park, hills, running) does not support \"downhill\" as a literal path, as the sentence is about the state of affairs, not the terrain.  \n• The ending mentions \"struggling against gravity\" and \"balance,\" which aligns with a physical movement, but the phrase \"things were going downhill\" is used metaphorically to describe deteriorating health or performance, not a literal descent.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "toward a lower or inferior state",
+  "original_keys": [
+    "126",
+    "127"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: downhill\n\nPOSSIBLE MEANINGS:\n1. toward the bottom of a hill (e.g., \"The bike raced downhill with speed.\")\n2. toward a lower or inferior state (e.g., \"His health has been going downhill lately.\")\n\nCONTEXT:\nPrecontext: John had set out on his morning run with high hopes. The path led him through the park, past the towering trees and lush hills. As he picked up speed, he could feel a change in the air.\nSentence containing the homonym: Things were going downhill.\nEnding: He struggled to fight against gravity and keep his balance as he ran.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Things were going downhill\" refers to a decline in John's physical condition or mood, not a physical path, given the precontext of a morning run and the ending describing struggle with balance and gravity.  \n• The physical path context (park, hills, running) does not support \"downhill\" as a literal path, as the sentence is about the state of affairs, not the terrain.  \n• The ending mentions \"struggling against gravity\" and \"balance,\" which aligns with a physical movement, but the phrase \"things were going downhill\" is used metaphorically to describe deteriorating health or performance, not a literal descent.  \n\nJUDGMENT: CLEAR - 2"
+}

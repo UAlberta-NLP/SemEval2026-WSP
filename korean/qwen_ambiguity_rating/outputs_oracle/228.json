@@ -1,0 +1,20 @@
+{
+  "context_id": "228",
+  "homonym": "drawn",
+  "precontext": "James sat at the kitchen table, staring at the blank sheet of paper before him. The afternoon light spilled over his shoulder, but the pencil remained idle in his hand. He knew that soon he would have to make a decision.",
+  "sentence": "This time, he wasn't easily drawn.",
+  "ending": "More deliberation would be needed before he made his decision.",
+  "meanings_considered": [
+    "make a mark or lines on a surface",
+    "bring or lead someone to a certain action or condition"
+  ],
+  "explanation": "• \"Drawn\" as \"make a mark\" is implausible because there is no mention of drawing lines or making marks on paper, and the subject is about decision-making, not physical drawing.  \n• \"Drawn\" as \"brought to a condition\" fits well, as James is being \"drawn\" toward making a decision, aligning with the precontext of hesitation and deliberation.  \n• The ending, which states \"more deliberation would be needed,\" supports the idea that James is being influenced or pulled toward a decision, reinforcing the psychological/mental meaning.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "bring or lead someone to a certain action or condition",
+  "original_keys": [
+    "228",
+    "229"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: drawn\n\nPOSSIBLE MEANINGS:\n1. make a mark or lines on a surface (e.g., \"Please draw a circle on the paper.\")\n2. bring or lead someone to a certain action or condition (e.g., \"He felt drawn to the adventure.\")\n\nCONTEXT:\nPrecontext: James sat at the kitchen table, staring at the blank sheet of paper before him. The afternoon light spilled over his shoulder, but the pencil remained idle in his hand. He knew that soon he would have to make a decision.\nSentence containing the homonym: This time, he wasn't easily drawn.\nEnding: More deliberation would be needed before he made his decision.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Drawn\" as \"make a mark\" is implausible because there is no mention of drawing lines or making marks on paper, and the subject is about decision-making, not physical drawing.  \n• \"Drawn\" as \"brought to a condition\" fits well, as James is being \"drawn\" toward making a decision, aligning with the precontext of hesitation and deliberation.  \n• The ending, which states \"more deliberation would be needed,\" supports the idea that James is being influenced or pulled toward a decision, reinforcing the psychological/mental meaning.  \nJUDGMENT: CLEAR - 2"
+}

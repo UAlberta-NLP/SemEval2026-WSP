@@ -1,0 +1,20 @@
+{
+  "context_id": "204",
+  "homonym": "Drawing",
+  "precontext": "Emma loved spending time at the old cottage in the countryside. Her mornings were filled with tasks around the house. She often found herself at the well or sitting with her sketchbook by the window.",
+  "sentence": "Drawing water can be quite difficult.",
+  "ending": "She used a pastel to sketch out the lake across from the cottage.",
+  "meanings_considered": [
+    "make a mark or lines on a surface",
+    "take liquid out of a container or well;"
+  ],
+  "explanation": "• \"Drawing water\" is a plausible activity in the context of a cottage with a well, where Emma spends time around the house.  \n• \"Drawing\" as in making a mark (e.g., sketching) is strongly supported by the precontext mentioning her sketchbook and sketching the lake.  \n• The sentence \"Drawing water can be quite difficult\" stands independently, but the precontext and ending both emphasize Emma’s activities involving both the well and sketching, making both meanings contextually present.",
+  "judgment": "AMBIGUOUS",
+  "clear_meaning_index": null,
+  "clear_meaning_text": null,
+  "original_keys": [
+    "204",
+    "205"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: Drawing\n\nPOSSIBLE MEANINGS:\n1. make a mark or lines on a surface (e.g., \"Please draw a circle on the paper.\")\n2. take liquid out of a container or well; (e.g., \"She will draw water from the well.\")\n\nCONTEXT:\nPrecontext: Emma loved spending time at the old cottage in the countryside. Her mornings were filled with tasks around the house. She often found herself at the well or sitting with her sketchbook by the window.\nSentence containing the homonym: Drawing water can be quite difficult.\nEnding: She used a pastel to sketch out the lake across from the cottage.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Drawing water\" is a plausible activity in the context of a cottage with a well, where Emma spends time around the house.  \n• \"Drawing\" as in making a mark (e.g., sketching) is strongly supported by the precontext mentioning her sketchbook and sketching the lake.  \n• The sentence \"Drawing water can be quite difficult\" stands independently, but the precontext and ending both emphasize Emma’s activities involving both the well and sketching, making both meanings contextually present.  \nJUDGMENT: AMBIGUOUS"
+}

@@ -1,0 +1,20 @@
+{
+  "context_id": "108",
+  "homonym": "reservations",
+  "precontext": "James sat quietly on the bus, thinking about the meeting he had later. He wondered if everything was in place for the trip he had planned afterward. As more passengers boarded, a man chose to sit beside him.",
+  "sentence": "The guy on the bus told him about his reservations.",
+  "ending": "James thought even more about what the meeting could be about, especially as the man had spoken about accepting something without a doubt.",
+  "meanings_considered": [
+    "an unstated doubt that prevents you from accepting something wholeheartedly",
+    "the act of reserving (a place or passage) or engaging the services of (a person or group)"
+  ],
+  "explanation": "• Meaning 1 (unstated doubt) is plausible, as the man is speaking about \"accepting something without a doubt,\" which aligns with the idea of reservations as hesitation.  \n• Meaning 2 (reserving a place) is less plausible, as no booking, seat, or service is mentioned, and the context focuses on thoughts and acceptance, not seating.  \n• The ending explicitly references \"accepting something without a doubt,\" which strongly supports the psychological meaning of \"reservations\" as doubt, not a reservation for a seat.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "an unstated doubt that prevents you from accepting something wholeheartedly",
+  "original_keys": [
+    "108",
+    "109"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: reservations\n\nPOSSIBLE MEANINGS:\n1. an unstated doubt that prevents you from accepting something wholeheartedly (e.g., \"She accepted the offer with some reservation.\")\n2. the act of reserving (a place or passage) or engaging the services of (a person or group) (e.g., \"I made a reservation for dinner.\")\n\nCONTEXT:\nPrecontext: James sat quietly on the bus, thinking about the meeting he had later. He wondered if everything was in place for the trip he had planned afterward. As more passengers boarded, a man chose to sit beside him.\nSentence containing the homonym: The guy on the bus told him about his reservations.\nEnding: James thought even more about what the meeting could be about, especially as the man had spoken about accepting something without a doubt.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• Meaning 1 (unstated doubt) is plausible, as the man is speaking about \"accepting something without a doubt,\" which aligns with the idea of reservations as hesitation.  \n• Meaning 2 (reserving a place) is less plausible, as no booking, seat, or service is mentioned, and the context focuses on thoughts and acceptance, not seating.  \n• The ending explicitly references \"accepting something without a doubt,\" which strongly supports the psychological meaning of \"reservations\" as doubt, not a reservation for a seat.  \nJUDGMENT: CLEAR - 1"
+}

@@ -1,0 +1,20 @@
+{
+  "context_id": "68",
+  "homonym": "suits",
+  "precontext": "Lena opened her own small fashion business last year. It quickly gained popularity in the local market. Then, a competitor accused her of copying designs.",
+  "sentence": "The suits became costly.",
+  "ending": "She spent more time with lawyers than with clients, and the bills kept piling up.",
+  "meanings_considered": [
+    "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy"
+  ],
+  "explanation": "• The precontext about Lena’s fashion business and competitors copying designs strongly supports the meaning of \"suits\" as clothing, making this interpretation highly plausible.  \n• The phrase \"the suits became costly\" in a fashion business context naturally refers to garments, not legal actions, as financial cost of clothing aligns with the narrative.  \n• The ending mentions lawyers and legal bills, which indirectly supports the legal meaning, but does not explicitly link to \"suits\" as clothing, and the phrase \"costly\" fits better with fashion items than legal proceedings.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+  "original_keys": [
+    "68",
+    "69"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: suits\n\nPOSSIBLE MEANINGS:\n1. a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color (e.g., \"He wore a tailored suit to the event.\")\n2. a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy (e.g., \"They filed a suit for damages.\")\n\nCONTEXT:\nPrecontext: Lena opened her own small fashion business last year. It quickly gained popularity in the local market. Then, a competitor accused her of copying designs.\nSentence containing the homonym: The suits became costly.\nEnding: She spent more time with lawyers than with clients, and the bills kept piling up.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext about Lena’s fashion business and competitors copying designs strongly supports the meaning of \"suits\" as clothing, making this interpretation highly plausible.  \n• The phrase \"the suits became costly\" in a fashion business context naturally refers to garments, not legal actions, as financial cost of clothing aligns with the narrative.  \n• The ending mentions lawyers and legal bills, which indirectly supports the legal meaning, but does not explicitly link to \"suits\" as clothing, and the phrase \"costly\" fits better with fashion items than legal proceedings.  \n\nJUDGMENT: CLEAR - 1"
+}

@@ -1,0 +1,20 @@
+{
+  "context_id": "154",
+  "homonym": "fallout",
+  "precontext": "The experiment went horribly wrong. A huge plume rose into the sky. People watched from a distance, unsure of the outcome.",
+  "sentence": "The fallout was an impressive sight to behold.",
+  "ending": "",
+  "meanings_considered": [
+    "the radioactive particles that settle to the ground after a nuclear explosion",
+    "any adverse and unwanted secondary effect"
+  ],
+  "explanation": "• The precontext describing a nuclear explosion with a \"huge plume rising into the sky\" strongly supports the literal radioactive fallout meaning.  \n• The phrase \"fallout was an impressive sight to behold\" suggests a visible, physical phenomenon, which aligns better with the literal radioactive particles than with a negative consequence.  \n• The secondary meaning (\"adverse effect\") would typically be described as negative or harmful, not something to be \"admired\" or considered an \"impressive sight.\"",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "the radioactive particles that settle to the ground after a nuclear explosion",
+  "original_keys": [
+    "154",
+    "155"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: fallout\n\nPOSSIBLE MEANINGS:\n1. the radioactive particles that settle to the ground after a nuclear explosion (e.g., \"The fallout from the explosion contaminated nearby soil.\")\n2. any adverse and unwanted secondary effect (e.g., \"The scandal had significant financial fallout.\")\n\nCONTEXT:\nPrecontext: The experiment went horribly wrong. A huge plume rose into the sky. People watched from a distance, unsure of the outcome.\nSentence containing the homonym: The fallout was an impressive sight to behold.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describing a nuclear explosion with a \"huge plume rising into the sky\" strongly supports the literal radioactive fallout meaning.  \n• The phrase \"fallout was an impressive sight to behold\" suggests a visible, physical phenomenon, which aligns better with the literal radioactive particles than with a negative consequence.  \n• The secondary meaning (\"adverse effect\") would typically be described as negative or harmful, not something to be \"admired\" or considered an \"impressive sight.\"  \n\nJUDGMENT: CLEAR - 1"
+}

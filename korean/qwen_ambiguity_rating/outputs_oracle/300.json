@@ -1,0 +1,20 @@
+{
+  "context_id": "300",
+  "homonym": "comfortable",
+  "precontext": "David moved to a small town last week. He had found a house that seemed perfect for his needs. Everything looked fine when he first arrived.",
+  "sentence": "David did not feel comfortable in his new house.",
+  "ending": "He sensed an ominous presence on the landing, which unnerved him.",
+  "meanings_considered": [
+    "providing or experiencing physical well-being or relief ('comfy' is informal)",
+    "free from stress or conducive to mental ease; having or affording peace of mind"
+  ],
+  "explanation": "• Meaning 1 (physical well-being) is implausible because David did not feel at ease with the house, and the ending emphasizes unease, not physical comfort.  \n• Meaning 2 (mental ease or lack of stress) is strongly supported by the sentence \"did not feel comfortable\" and the subsequent mention of an \"ominous presence\" that \"unnerved him.\"  \n• The precontext and ending together suggest emotional or psychological discomfort, not physical comfort, making meaning 2 the only coherent interpretation.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "free from stress or conducive to mental ease; having or affording peace of mind",
+  "original_keys": [
+    "300",
+    "301"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: comfortable\n\nPOSSIBLE MEANINGS:\n1. providing or experiencing physical well-being or relief ('comfy' is informal) (e.g., \"She wore comfortable shoes for walking.\")\n2. free from stress or conducive to mental ease; having or affording peace of mind (e.g., \"She felt comfortable in her new role.\")\n\nCONTEXT:\nPrecontext: David moved to a small town last week. He had found a house that seemed perfect for his needs. Everything looked fine when he first arrived.\nSentence containing the homonym: David did not feel comfortable in his new house.\nEnding: He sensed an ominous presence on the landing, which unnerved him.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• Meaning 1 (physical well-being) is implausible because David did not feel at ease with the house, and the ending emphasizes unease, not physical comfort.  \n• Meaning 2 (mental ease or lack of stress) is strongly supported by the sentence \"did not feel comfortable\" and the subsequent mention of an \"ominous presence\" that \"unnerved him.\"  \n• The precontext and ending together suggest emotional or psychological discomfort, not physical comfort, making meaning 2 the only coherent interpretation.  \n\nJUDGMENT: CLEAR - 2"
+}

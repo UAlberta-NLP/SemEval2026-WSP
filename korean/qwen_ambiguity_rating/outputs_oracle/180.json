@@ -1,0 +1,20 @@
+{
+  "context_id": "180",
+  "homonym": "flop",
+  "precontext": "Lila had been practicing for weeks, hoping to impress the audience. The stage was set, and the lights dimmed as the crowd waited eagerly. Backstage, she took a deep breath, feeling both excitement and nerves.",
+  "sentence": "After all the preparations, the dancer made an entrance, only to flop on stage.",
+  "ending": "She picked herself up from all fours in an artistic manner and kicked off the dance with a bang.",
+  "meanings_considered": [
+    "fall loosely",
+    "fail utterly; collapse"
+  ],
+  "explanation": "• \"Flop\" as a fall loosely fits the scene, where the dancer stumbles or lands awkwardly on stage, especially given the physical description of her movement.  \n• \"Flop\" as a total failure contradicts the ending, which states she \"picked herself up\" and \"kicked off the dance with a bang,\" indicating success, not failure.  \n• The precontext emphasizes preparation and excitement, and the ending shows a successful performance, making the failure interpretation inconsistent with the narrative outcome.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "fall loosely",
+  "original_keys": [
+    "180",
+    "181"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: flop\n\nPOSSIBLE MEANINGS:\n1. fall loosely (e.g., \"She flopped onto the soft couch.\")\n2. fail utterly; collapse (e.g., \"The presentation was a complete flop.\")\n\nCONTEXT:\nPrecontext: Lila had been practicing for weeks, hoping to impress the audience. The stage was set, and the lights dimmed as the crowd waited eagerly. Backstage, she took a deep breath, feeling both excitement and nerves.\nSentence containing the homonym: After all the preparations, the dancer made an entrance, only to flop on stage.\nEnding: She picked herself up from all fours in an artistic manner and kicked off the dance with a bang.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Flop\" as a fall loosely fits the scene, where the dancer stumbles or lands awkwardly on stage, especially given the physical description of her movement.  \n• \"Flop\" as a total failure contradicts the ending, which states she \"picked herself up\" and \"kicked off the dance with a bang,\" indicating success, not failure.  \n• The precontext emphasizes preparation and excitement, and the ending shows a successful performance, making the failure interpretation inconsistent with the narrative outcome.  \nJUDGMENT: CLEAR - 1"
+}

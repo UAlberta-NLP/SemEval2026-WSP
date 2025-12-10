@@ -1,0 +1,20 @@
+{
+  "context_id": "520",
+  "homonym": "pictured",
+  "precontext": "Tom sat quietly in the gallery. He studied the portraits on the walls, admiring their detail. Each face told a different story, sparking his imagination.",
+  "sentence": "He pictured all of them together.",
+  "ending": "",
+  "meanings_considered": [
+    "imagine; conceive of; see in one's mind",
+    "show in, or as in, a picture"
+  ],
+  "explanation": "• \"He pictured all of them together\" likely means \"imagine\" given that the previous sentence talks about \"sparking his imagination\" and the subject is mentally reconstructing scenes from portraits.  \n• The meaning \"show in a picture\" is less plausible because the gallery already contains portraits; there's no indication that Tom is depicting or displaying the faces in a visual form.  \n• The precontext emphasizes mental imagery (\"sparking his imagination\") and internal visualization, which strongly supports the \"imagine\" sense over the \"show in a picture\" sense.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "imagine; conceive of; see in one's mind",
+  "original_keys": [
+    "520",
+    "521"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: pictured\n\nPOSSIBLE MEANINGS:\n1. imagine; conceive of; see in one's mind (e.g., \"I can picture our future together.\")\n2. show in, or as in, a picture (e.g., \"The mural will picture a peaceful landscape.\")\n\nCONTEXT:\nPrecontext: Tom sat quietly in the gallery. He studied the portraits on the walls, admiring their detail. Each face told a different story, sparking his imagination.\nSentence containing the homonym: He pictured all of them together.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"He pictured all of them together\" likely means \"imagine\" given that the previous sentence talks about \"sparking his imagination\" and the subject is mentally reconstructing scenes from portraits.  \n• The meaning \"show in a picture\" is less plausible because the gallery already contains portraits; there's no indication that Tom is depicting or displaying the faces in a visual form.  \n• The precontext emphasizes mental imagery (\"sparking his imagination\") and internal visualization, which strongly supports the \"imagine\" sense over the \"show in a picture\" sense.  \nJUDGMENT: CLEAR - 1"
+}

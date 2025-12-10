@@ -1,0 +1,20 @@
+{
+  "context_id": "356",
+  "homonym": "flexible",
+  "precontext": "\nThe circus was in town for a month-long stay. The trapeze act was the main attraction, but they were looking for a new performer. The applicants had to meet several requirements before they could audition.",
+  "sentence": "To succeed in this position, one needs to be flexible.",
+  "ending": "If they can't move their bodies freely, they can't perform.",
+  "meanings_considered": [
+    "capable of being changed",
+    "able to flex; able to bend easily"
+  ],
+  "explanation": "• Meaning 1 (capable of being changed) is plausible given the context of job requirements and performance, where adaptability is a key trait.  \n• Meaning 2 (able to bend easily) is supported by the ending mentioning physical movement and body freedom, directly linking to physical flexibility in performance.  \n• The precontext and ending strongly favor physical flexibility as the intended meaning, as the trapeze act requires bodily movement and physical ability.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "able to flex; able to bend easily",
+  "original_keys": [
+    "356",
+    "357"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: flexible\n\nPOSSIBLE MEANINGS:\n1. capable of being changed (e.g., \"She has a flexible work schedule.\")\n2. able to flex; able to bend easily (e.g., \"The flexible branches swayed in the breeze.\")\n\nCONTEXT:\nPrecontext: \nThe circus was in town for a month-long stay. The trapeze act was the main attraction, but they were looking for a new performer. The applicants had to meet several requirements before they could audition.\nSentence containing the homonym: To succeed in this position, one needs to be flexible.\nEnding: If they can't move their bodies freely, they can't perform.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• Meaning 1 (capable of being changed) is plausible given the context of job requirements and performance, where adaptability is a key trait.  \n• Meaning 2 (able to bend easily) is supported by the ending mentioning physical movement and body freedom, directly linking to physical flexibility in performance.  \n• The precontext and ending strongly favor physical flexibility as the intended meaning, as the trapeze act requires bodily movement and physical ability.  \n\nJUDGMENT: CLEAR - 2"
+}

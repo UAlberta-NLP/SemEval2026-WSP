@@ -1,0 +1,20 @@
+{
+  "context_id": "508",
+  "homonym": "plant",
+  "precontext": "The theatre was bustling with people that evening. Everyone was excited for the premiere of the new play. The director had made some unexpected choices for the show.",
+  "sentence": "The plant in the theatre went unnoticed.",
+  "ending": "",
+  "meanings_considered": [
+    "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "(botany) a living organism lacking the power of locomotion"
+  ],
+  "explanation": "• The precontext describes a theatre setting with an audience and a premiere, making the actor-in-the-audience meaning highly plausible.  \n• The phrase \"the plant in the theatre\" fits naturally with the idea of a performer hidden among the audience, especially given the mention of a \"premiere\" and \"unexpected choices.\"  \n• The botanical meaning (a living organism) is less plausible here, as it would be odd to refer to a plant in a theatre setting without mentioning a garden or outdoor space.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+  "original_keys": [
+    "508",
+    "509"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: plant\n\nPOSSIBLE MEANINGS:\n1. an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience (e.g., \"The comedian used a plant in the crowd.\")\n2. (botany) a living organism lacking the power of locomotion (e.g., \"The garden has a beautiful plant.\")\n\nCONTEXT:\nPrecontext: The theatre was bustling with people that evening. Everyone was excited for the premiere of the new play. The director had made some unexpected choices for the show.\nSentence containing the homonym: The plant in the theatre went unnoticed.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes a theatre setting with an audience and a premiere, making the actor-in-the-audience meaning highly plausible.  \n• The phrase \"the plant in the theatre\" fits naturally with the idea of a performer hidden among the audience, especially given the mention of a \"premiere\" and \"unexpected choices.\"  \n• The botanical meaning (a living organism) is less plausible here, as it would be odd to refer to a plant in a theatre setting without mentioning a garden or outdoor space.  \n\nJUDGMENT: CLEAR - 1"
+}

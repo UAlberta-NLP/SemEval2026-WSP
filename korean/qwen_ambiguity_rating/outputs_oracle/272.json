@@ -1,0 +1,20 @@
+{
+  "context_id": "272",
+  "homonym": "tipped",
+  "precontext": "John was dining at his favorite local café, enjoying a quiet meal. He chatted with the friendly staff who knew him well. As he finished his dessert, he stood up to leave.",
+  "sentence": "After the meal, he accidentally tipped the table on his way out.",
+  "ending": "He left more money for the server than he had intended to.",
+  "meanings_considered": [
+    "cause to topple or tumble by pushing",
+    "give a tip or gratuity to in return for a service, beyond the compensation agreed on"
+  ],
+  "explanation": "• \"Tipped the table\" in the context of leaving the café strongly suggests the physical action of pushing or tipping it over, which fits the first meaning (causing to topple).  \n• The precontext describes a quiet meal and interaction with staff, making a physical accident with the table plausible and contextually grounded.  \n• The ending states he left more money for the server, which supports the idea of giving a gratuity (meaning 2), but this is a separate event and not directly tied to the action of tipping the table.",
+  "judgment": "AMBIGUOUS",
+  "clear_meaning_index": null,
+  "clear_meaning_text": null,
+  "original_keys": [
+    "272",
+    "273"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: tipped\n\nPOSSIBLE MEANINGS:\n1. cause to topple or tumble by pushing (e.g., \"She gave the vase a gentle tip.\")\n2. give a tip or gratuity to in return for a service, beyond the compensation agreed on (e.g., \"Please remember to tip your server.\")\n\nCONTEXT:\nPrecontext: John was dining at his favorite local café, enjoying a quiet meal. He chatted with the friendly staff who knew him well. As he finished his dessert, he stood up to leave.\nSentence containing the homonym: After the meal, he accidentally tipped the table on his way out.\nEnding: He left more money for the server than he had intended to.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Tipped the table\" in the context of leaving the café strongly suggests the physical action of pushing or tipping it over, which fits the first meaning (causing to topple).  \n• The precontext describes a quiet meal and interaction with staff, making a physical accident with the table plausible and contextually grounded.  \n• The ending states he left more money for the server, which supports the idea of giving a gratuity (meaning 2), but this is a separate event and not directly tied to the action of tipping the table.  \n\nJUDGMENT: AMBIGUOUS"
+}

@@ -1,0 +1,20 @@
+{
+  "context_id": "132",
+  "homonym": "downhill",
+  "precontext": "Jack had always loved the thrill of mountain biking. Every weekend, he packed his gear and headed to the trails. He felt alive and unstoppable once he left the familiar comfort of home.",
+  "sentence": "He started going downhill after leaving home.",
+  "ending": "He had overtaxed himself and felt winded; Jack felt stupid for not noticing the signs sooner.",
+  "meanings_considered": [
+    "toward a lower or inferior state",
+    "toward the bottom of a hill"
+  ],
+  "explanation": "• \"Going downhill\" referring to a physical descent along a hill is strongly supported by the precontext of mountain biking and the phrase \"headed to the trails\"  \n• The meaning of \"going downhill\" as a decline in health is not supported by the context, which emphasizes physical activity and energy levels, not emotional or physical deterioration  \n• The ending, which notes Jack felt winded and overtaxed, reinforces the physical activity interpretation, not a decline in mental state",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "toward the bottom of a hill",
+  "original_keys": [
+    "132",
+    "133"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: downhill\n\nPOSSIBLE MEANINGS:\n1. toward a lower or inferior state (e.g., \"His health has been going downhill lately.\")\n2. toward the bottom of a hill (e.g., \"The bike raced downhill with speed.\")\n\nCONTEXT:\nPrecontext: Jack had always loved the thrill of mountain biking. Every weekend, he packed his gear and headed to the trails. He felt alive and unstoppable once he left the familiar comfort of home.\nSentence containing the homonym: He started going downhill after leaving home.\nEnding: He had overtaxed himself and felt winded; Jack felt stupid for not noticing the signs sooner.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Going downhill\" referring to a physical descent along a hill is strongly supported by the precontext of mountain biking and the phrase \"headed to the trails\"  \n• The meaning of \"going downhill\" as a decline in health is not supported by the context, which emphasizes physical activity and energy levels, not emotional or physical deterioration  \n• The ending, which notes Jack felt winded and overtaxed, reinforces the physical activity interpretation, not a decline in mental state  \n\nJUDGMENT: CLEAR - 2"
+}

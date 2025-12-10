@@ -1,0 +1,20 @@
+{
+  "context_id": "252",
+  "homonym": "fiddling",
+  "precontext": "Tom joined the band last month. He spent a lot of time in the practice room. The band noticed his commitment right away.",
+  "sentence": "The team was not impressed with Tom's fiddling.",
+  "ending": "They expected him to focus on practice, but instead, he kept fiddling around and wasting time, which frustrated the rest of the band.",
+  "meanings_considered": [
+    "avoid (one's assigned duties)",
+    "play the violin or fiddle"
+  ],
+  "explanation": "• \"Fiddling\" as avoiding duties fits the context of Tom wasting time and not focusing on practice, which aligns with the ending that he \"kept fiddling around and wasting time.\"  \n• \"Fiddling\" as playing the violin is inconsistent with the precontext, which emphasizes Tom joining a band and practicing, but does not suggest he was playing instruments idly or avoiding duties.  \n• The ending explicitly states he was \"fiddling around and wasting time,\" which strongly supports the meaning of avoiding responsibilities, not playing music.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "avoid (one's assigned duties)",
+  "original_keys": [
+    "252",
+    "253"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: fiddling\n\nPOSSIBLE MEANINGS:\n1. avoid (one's assigned duties) (e.g., \"He decided to fiddle with his responsibilities.\")\n2. play the violin or fiddle (e.g., \"She loves to fiddle at night.\")\n\nCONTEXT:\nPrecontext: Tom joined the band last month. He spent a lot of time in the practice room. The band noticed his commitment right away.\nSentence containing the homonym: The team was not impressed with Tom's fiddling.\nEnding: They expected him to focus on practice, but instead, he kept fiddling around and wasting time, which frustrated the rest of the band.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Fiddling\" as avoiding duties fits the context of Tom wasting time and not focusing on practice, which aligns with the ending that he \"kept fiddling around and wasting time.\"  \n• \"Fiddling\" as playing the violin is inconsistent with the precontext, which emphasizes Tom joining a band and practicing, but does not suggest he was playing instruments idly or avoiding duties.  \n• The ending explicitly states he was \"fiddling around and wasting time,\" which strongly supports the meaning of avoiding responsibilities, not playing music.  \n\nJUDGMENT: CLEAR - 1"
+}

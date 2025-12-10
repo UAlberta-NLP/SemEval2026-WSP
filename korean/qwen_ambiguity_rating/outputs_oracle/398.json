@@ -1,0 +1,20 @@
+{
+  "context_id": "398",
+  "homonym": "pick",
+  "precontext": "Emily and Jack sat in the garden, surrounded by the bright blooms of spring. In front of Emily lay a box of colorful marbles and a banjo. The air was filled with anticipation as she contemplated her next move.",
+  "sentence": "He didn't know what she was going to pick.",
+  "ending": "She eventually played an old song her mother used to play for her back in the day.",
+  "meanings_considered": [
+    "select carefully from a group",
+    "pull lightly but sharply with a plucking motion"
+  ],
+  "explanation": "• \"Pick a winner\" from a group of marbles is plausible, as Emily is contemplating her next move among colorful options.  \n• \"Pick\" as in plucking a string is less plausible, as the sentence refers to a decision, not a musical action.  \n• The ending about playing an old song confirms that the action is musical, not a selection of marbles.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "select carefully from a group",
+  "original_keys": [
+    "398",
+    "399"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: pick\n\nPOSSIBLE MEANINGS:\n1. select carefully from a group (e.g., \"She had to pick a winner.\")\n2. pull lightly but sharply with a plucking motion (e.g., \"She will pick a string gently.\")\n\nCONTEXT:\nPrecontext: Emily and Jack sat in the garden, surrounded by the bright blooms of spring. In front of Emily lay a box of colorful marbles and a banjo. The air was filled with anticipation as she contemplated her next move.\nSentence containing the homonym: He didn't know what she was going to pick.\nEnding: She eventually played an old song her mother used to play for her back in the day.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Pick a winner\" from a group of marbles is plausible, as Emily is contemplating her next move among colorful options.  \n• \"Pick\" as in plucking a string is less plausible, as the sentence refers to a decision, not a musical action.  \n• The ending about playing an old song confirms that the action is musical, not a selection of marbles.  \nJUDGMENT: CLEAR - 1"
+}

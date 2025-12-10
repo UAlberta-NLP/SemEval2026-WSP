@@ -1,0 +1,20 @@
+{
+  "context_id": "316",
+  "homonym": "snorted",
+  "precontext": "Mary had a cold and felt stuffy all morning. Her friends were concerned about her sniffles. They whispered about her behavior, but she just rolled her eyes.",
+  "sentence": "Mary snorted during the last class period.",
+  "ending": "",
+  "meanings_considered": [
+    "make a snorting sound by exhaling hard",
+    "inhale recreational drugs"
+  ],
+  "explanation": "• The precontext mentions Mary having a cold and \"sniffles,\" which strongly suggests respiratory symptoms, making a snorting sound plausible as a physical reaction to a cold.  \n• \"Snorting\" drugs is not supported by the precontext, which focuses on cold symptoms and friends' concern about her sniffles—no indication of drug use or illicit behavior.  \n• The phrase \"snorted during the last class period\" fits naturally with a physical sound (like a snort of breath) in a classroom setting, especially given the prior mention of sniffles and cold.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "make a snorting sound by exhaling hard",
+  "original_keys": [
+    "316",
+    "317"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: snorted\n\nPOSSIBLE MEANINGS:\n1. make a snorting sound by exhaling hard (e.g., \"He snorted in disbelief at the news.\")\n2. inhale recreational drugs (e.g., \"He was caught snorting powder in the bathroom.\")\n\nCONTEXT:\nPrecontext: Mary had a cold and felt stuffy all morning. Her friends were concerned about her sniffles. They whispered about her behavior, but she just rolled her eyes.\nSentence containing the homonym: Mary snorted during the last class period.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext mentions Mary having a cold and \"sniffles,\" which strongly suggests respiratory symptoms, making a snorting sound plausible as a physical reaction to a cold.  \n• \"Snorting\" drugs is not supported by the precontext, which focuses on cold symptoms and friends' concern about her sniffles—no indication of drug use or illicit behavior.  \n• The phrase \"snorted during the last class period\" fits naturally with a physical sound (like a snort of breath) in a classroom setting, especially given the prior mention of sniffles and cold.  \n\nJUDGMENT: CLEAR - 1"
+}

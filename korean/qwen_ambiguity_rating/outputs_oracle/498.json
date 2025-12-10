@@ -1,0 +1,20 @@
+{
+  "context_id": "498",
+  "homonym": "plant",
+  "precontext": "John was sitting in his favorite chair, sipping his morning coffee. He loved the quiet moments before his busy day started. Every morning, he liked to glance out of his window to see what was happening outside.",
+  "sentence": "He could see a plant from his window.",
+  "ending": "He had watched the magic show in the hotel garden many times and knew that the man in the audience was in cahoots with the magician.",
+  "meanings_considered": [
+    "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+    "(botany) a living organism lacking the power of locomotion"
+  ],
+  "explanation": "• The precontext describes John looking out his window to see what’s happening outside, which strongly suggests a botanical meaning of \"plant\" as a living organism in the garden.  \n• The second meaning (actor in the audience) is not supported by the physical setting or the action of \"seeing from the window\"—actors are not typically visible from a window in this context.  \n• The ending references a \"man in the audience\" and a magic show, which confirms that the audience member is a person, not a plant, thus ruling out the actor meaning and reinforcing the botanical interpretation.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "(botany) a living organism lacking the power of locomotion",
+  "original_keys": [
+    "498",
+    "499"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: plant\n\nPOSSIBLE MEANINGS:\n1. an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience (e.g., \"The comedian used a plant in the crowd.\")\n2. (botany) a living organism lacking the power of locomotion (e.g., \"The garden has a beautiful plant.\")\n\nCONTEXT:\nPrecontext: John was sitting in his favorite chair, sipping his morning coffee. He loved the quiet moments before his busy day started. Every morning, he liked to glance out of his window to see what was happening outside.\nSentence containing the homonym: He could see a plant from his window.\nEnding: He had watched the magic show in the hotel garden many times and knew that the man in the audience was in cahoots with the magician.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes John looking out his window to see what’s happening outside, which strongly suggests a botanical meaning of \"plant\" as a living organism in the garden.  \n• The second meaning (actor in the audience) is not supported by the physical setting or the action of \"seeing from the window\"—actors are not typically visible from a window in this context.  \n• The ending references a \"man in the audience\" and a magic show, which confirms that the audience member is a person, not a plant, thus ruling out the actor meaning and reinforcing the botanical interpretation.  \n\nJUDGMENT: CLEAR - 2"
+}

@@ -1,0 +1,20 @@
+{
+  "context_id": "198",
+  "homonym": "fledgling",
+  "precontext": "The sun rose gently over the bustling town. Everyone was busy preparing for the day's events. A young participant stood near the edge, excited yet nervous about what lay ahead.",
+  "sentence": "The fledgling wobbled uncertainly on the edge, eyeing the vast world ahead.",
+  "ending": "They wondered what adventures would unfold on their first day.",
+  "meanings_considered": [
+    "any new participant in some activity",
+    "young bird that has just fledged or become capable of flying"
+  ],
+  "explanation": "• The precontext describes a \"young participant\" preparing for daily events, which aligns with the meaning of \"new participant in an activity.\"  \n• The sentence states \"the fledgling wobbled uncertainly on the edge,\" which fits a young person's physical behavior, not a bird, making the biological meaning less likely.  \n• The ending references \"adventures on their first day,\" reinforcing the idea of a person beginning a new experience, supporting the \"new participant\" interpretation.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "any new participant in some activity",
+  "original_keys": [
+    "198",
+    "199"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: fledgling\n\nPOSSIBLE MEANINGS:\n1. any new participant in some activity (e.g., \"The fledgling entrepreneur gained valuable experience.\")\n2. young bird that has just fledged or become capable of flying (e.g., \"The fledgling took its first flight.\")\n\nCONTEXT:\nPrecontext: The sun rose gently over the bustling town. Everyone was busy preparing for the day's events. A young participant stood near the edge, excited yet nervous about what lay ahead.\nSentence containing the homonym: The fledgling wobbled uncertainly on the edge, eyeing the vast world ahead.\nEnding: They wondered what adventures would unfold on their first day.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes a \"young participant\" preparing for daily events, which aligns with the meaning of \"new participant in an activity.\"  \n• The sentence states \"the fledgling wobbled uncertainly on the edge,\" which fits a young person's physical behavior, not a bird, making the biological meaning less likely.  \n• The ending references \"adventures on their first day,\" reinforcing the idea of a person beginning a new experience, supporting the \"new participant\" interpretation.  \nJUDGMENT: CLEAR - 1"
+}

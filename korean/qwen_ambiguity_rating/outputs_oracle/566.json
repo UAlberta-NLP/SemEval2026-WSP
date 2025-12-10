@@ -1,0 +1,20 @@
+{
+  "context_id": "566",
+  "homonym": "trailer",
+  "precontext": "Mark eagerly waited by the curb, scanning the street for any sign of movement. He had heard rumors about something exciting being nearby, and his curiosity was piqued. His friend mentioned that it would be worth seeing, sparking his imagination with endless possibilities.",
+  "sentence": "That trailer is good to look at.",
+  "ending": "The local cinema was drawing him in with its 4K billboard.",
+  "meanings_considered": [
+    "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+    "a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy"
+  ],
+  "explanation": "• The precontext describes Mark waiting by the curb and hearing rumors about something exciting nearby, suggesting anticipation of an event or visual stimulus.  \n• The sentence \"That trailer is good to look at\" follows naturally from the context of a cinema drawing people in with a 4K billboard, pointing toward a visual advertisement.  \n• A trailer as a vehicle would be inconsistent with the setting, as no mention of travel, movement, or vehicles is made, and the ending reinforces a cinematic context.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "an advertisement consisting of short scenes from a motion picture that will appear in the near future",
+  "original_keys": [
+    "566",
+    "567"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: trailer\n\nPOSSIBLE MEANINGS:\n1. an advertisement consisting of short scenes from a motion picture that will appear in the near future (e.g., \"I watched the new movie trailer online.\")\n2. a wheeled vehicle that can be pulled by a car or truck and is equipped for occupancy (e.g., \"They traveled cross-country in their trailer.\")\n\nCONTEXT:\nPrecontext: Mark eagerly waited by the curb, scanning the street for any sign of movement. He had heard rumors about something exciting being nearby, and his curiosity was piqued. His friend mentioned that it would be worth seeing, sparking his imagination with endless possibilities.\nSentence containing the homonym: That trailer is good to look at.\nEnding: The local cinema was drawing him in with its 4K billboard.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes Mark waiting by the curb and hearing rumors about something exciting nearby, suggesting anticipation of an event or visual stimulus.  \n• The sentence \"That trailer is good to look at\" follows naturally from the context of a cinema drawing people in with a 4K billboard, pointing toward a visual advertisement.  \n• A trailer as a vehicle would be inconsistent with the setting, as no mention of travel, movement, or vehicles is made, and the ending reinforces a cinematic context.  \n\nJUDGMENT: CLEAR - 1"
+}

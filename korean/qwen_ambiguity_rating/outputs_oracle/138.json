@@ -1,0 +1,20 @@
+{
+  "context_id": "138",
+  "homonym": "downhill",
+  "precontext": "The kids decided to build a soapbox car. They worked hard all afternoon, excited to race it on the steep hill by their street. As they lined it up at the top, they laughed and cheered in anticipation.",
+  "sentence": "They didn't realize how fast it would all go downhill.",
+  "ending": "Some of the nails were falling out already as they pushed it to the start; they weren't sure it would make it through the journey.",
+  "meanings_considered": [
+    "toward a lower or inferior state",
+    "toward the bottom of a hill"
+  ],
+  "explanation": "• The precontext describes a physical hill and a soapbox car race, strongly suggesting a literal, physical descent.  \n• The sentence \"it would all go downhill\" follows naturally from the physical setting, referring to the car speeding down the hill.  \n• The ending mentions nails falling out and uncertainty about the car making it through, which supports a literal interpretation of \"going downhill\" as physical movement, not a decline in condition.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "toward the bottom of a hill",
+  "original_keys": [
+    "138",
+    "139"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: downhill\n\nPOSSIBLE MEANINGS:\n1. toward a lower or inferior state (e.g., \"His health has been going downhill lately.\")\n2. toward the bottom of a hill (e.g., \"The bike raced downhill with speed.\")\n\nCONTEXT:\nPrecontext: The kids decided to build a soapbox car. They worked hard all afternoon, excited to race it on the steep hill by their street. As they lined it up at the top, they laughed and cheered in anticipation.\nSentence containing the homonym: They didn't realize how fast it would all go downhill.\nEnding: Some of the nails were falling out already as they pushed it to the start; they weren't sure it would make it through the journey.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes a physical hill and a soapbox car race, strongly suggesting a literal, physical descent.  \n• The sentence \"it would all go downhill\" follows naturally from the physical setting, referring to the car speeding down the hill.  \n• The ending mentions nails falling out and uncertainty about the car making it through, which supports a literal interpretation of \"going downhill\" as physical movement, not a decline in condition.  \n\nJUDGMENT: CLEAR - 2"
+}

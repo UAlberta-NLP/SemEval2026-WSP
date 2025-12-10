@@ -1,0 +1,20 @@
+{
+  "context_id": "442",
+  "homonym": "rare",
+  "precontext": "Emma loved food. She was excited to visit the annual food festival. There were dishes from all over the world.",
+  "sentence": "At the festival, she had a rare treat that she didn't come across very often.",
+  "ending": "",
+  "meanings_considered": [
+    "(of meat) cooked a short time; still red inside",
+    "recurring only at long intervals"
+  ],
+  "explanation": "• The phrase \"rare treat\" in the context of a food festival strongly suggests a food item that is uncommon or special, aligning with meaning 1 (meat cooked rare).  \n• The precontext emphasizes food and dishes from around the world, making a culinary experience more likely than an astronomical event.  \n• Meaning 2 (\"rare\" as in occurring infrequently) would fit if the sentence described something like a rare occurrence in nature, but \"treat\" implies a food item, not a celestial event.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "(of meat) cooked a short time; still red inside",
+  "original_keys": [
+    "442",
+    "443"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: rare\n\nPOSSIBLE MEANINGS:\n1. (of meat) cooked a short time; still red inside (e.g., \"I prefer my steak cooked rare.\")\n2. recurring only at long intervals (e.g., \"A rare comet will pass by soon.\")\n\nCONTEXT:\nPrecontext: Emma loved food. She was excited to visit the annual food festival. There were dishes from all over the world.\nSentence containing the homonym: At the festival, she had a rare treat that she didn't come across very often.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The phrase \"rare treat\" in the context of a food festival strongly suggests a food item that is uncommon or special, aligning with meaning 1 (meat cooked rare).  \n• The precontext emphasizes food and dishes from around the world, making a culinary experience more likely than an astronomical event.  \n• Meaning 2 (\"rare\" as in occurring infrequently) would fit if the sentence described something like a rare occurrence in nature, but \"treat\" implies a food item, not a celestial event.  \n\nJUDGMENT: CLEAR - 1"
+}

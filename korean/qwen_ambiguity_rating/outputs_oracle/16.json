@@ -1,0 +1,20 @@
+{
+  "context_id": "16",
+  "homonym": "dribbled",
+  "precontext": "Jake loved football more than anything. He hadn't eaten much since breakfast and his stomach growled. As the game continued, he couldn't help but lose focus.",
+  "sentence": "The hungry child dribbled all over the football pitch.",
+  "ending": "",
+  "meanings_considered": [
+    "propel,",
+    "let saliva drivel from the mouth"
+  ],
+  "explanation": "• \"Dribbled\" referring to propelling a ball (e.g., dribbling a basketball) is plausible given the football context and the setting of a football pitch.  \n• \"Dribbled\" meaning letting saliva flow is plausible due to the child being hungry and the stomach growling, suggesting physical discomfort or drooling.  \n• However, the phrase \"dribbled all over the football pitch\" strongly implies physical movement or spillage, not drooling, making the saliva meaning less likely in this context.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "propel,",
+  "original_keys": [
+    "16",
+    "17"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: dribbled\n\nPOSSIBLE MEANINGS:\n1. propel, (e.g., \"He likes to dribble the basketball.\")\n2. let saliva drivel from the mouth (e.g., \"The baby began to dribble with joy.\")\n\nCONTEXT:\nPrecontext: Jake loved football more than anything. He hadn't eaten much since breakfast and his stomach growled. As the game continued, he couldn't help but lose focus.\nSentence containing the homonym: The hungry child dribbled all over the football pitch.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• \"Dribbled\" referring to propelling a ball (e.g., dribbling a basketball) is plausible given the football context and the setting of a football pitch.  \n• \"Dribbled\" meaning letting saliva flow is plausible due to the child being hungry and the stomach growling, suggesting physical discomfort or drooling.  \n• However, the phrase \"dribbled all over the football pitch\" strongly implies physical movement or spillage, not drooling, making the saliva meaning less likely in this context.  \n\nJUDGMENT: CLEAR - 1"
+}

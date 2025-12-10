@@ -1,0 +1,20 @@
+{
+  "context_id": "286",
+  "homonym": "tips",
+  "precontext": "James sat quietly at the bar, listening to the murmur of conversations around him. He had been coming here every evening since arriving in town, hoping to learn something valuable. The regulars were friendly enough and sometimes shared interesting pieces of information.",
+  "sentence": "There were some decent tips to be taken advantage of.",
+  "ending": "",
+  "meanings_considered": [
+    "a relatively small amount of money given for services rendered (as by a waiter)",
+    "an indication of potential opportunity"
+  ],
+  "explanation": "• The precontext mentions James listening to conversations and seeking \"valuable\" information, suggesting a non-monetary, informational sense of \"tip\" is relevant.  \n• The phrase \"tips to be taken advantage of\" fits naturally with the meaning of \"indications of opportunity,\" especially in a context where people share information.  \n• The financial meaning (\"small amount of money\") is inconsistent with the setting, as there is no mention of service, payment, or bar staff, and the sentence is about opportunities, not money.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "an indication of potential opportunity",
+  "original_keys": [
+    "286",
+    "287"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: tips\n\nPOSSIBLE MEANINGS:\n1. a relatively small amount of money given for services rendered (as by a waiter) (e.g., \"I left a generous tip for dinner.\")\n2. an indication of potential opportunity (e.g., \"He received a tip about the stock.\")\n\nCONTEXT:\nPrecontext: James sat quietly at the bar, listening to the murmur of conversations around him. He had been coming here every evening since arriving in town, hoping to learn something valuable. The regulars were friendly enough and sometimes shared interesting pieces of information.\nSentence containing the homonym: There were some decent tips to be taken advantage of.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext mentions James listening to conversations and seeking \"valuable\" information, suggesting a non-monetary, informational sense of \"tip\" is relevant.  \n• The phrase \"tips to be taken advantage of\" fits naturally with the meaning of \"indications of opportunity,\" especially in a context where people share information.  \n• The financial meaning (\"small amount of money\") is inconsistent with the setting, as there is no mention of service, payment, or bar staff, and the sentence is about opportunities, not money.  \nJUDGMENT: CLEAR - 2"
+}

@@ -1,0 +1,20 @@
+{
+  "context_id": "234",
+  "homonym": "branch",
+  "precontext": "They decided to take a trip to the countryside. Nearby, there was a small outpost that piqued their interest. They heard it was known for its outstanding features.",
+  "sentence": "The big branch was very close to where they were staying.",
+  "ending": "A strong gust of wind could cause it to snap off the tree and smash through one of the windows.",
+  "meanings_considered": [
+    "a division of a stem, or secondary stem arising from the main stem of a plant",
+    "a division of some larger or more complex organization"
+  ],
+  "explanation": "• The precontext mentions a \"small outpost\" in the countryside, suggesting a physical location, which aligns with the plant meaning of \"branch\" as a part of a tree.  \n• The sentence states \"the big branch was very close,\" and the ending describes it as something that could \"snap off the tree,\" strongly supporting the plant/branch of a tree interpretation.  \n• The organizational meaning of \"branch\" (e.g., a division of an organization) does not fit, as there is no mention of an organization, committee, or administrative structure in the context.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "a division of a stem, or secondary stem arising from the main stem of a plant",
+  "original_keys": [
+    "234",
+    "235"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: branch\n\nPOSSIBLE MEANINGS:\n1. a division of a stem, or secondary stem arising from the main stem of a plant (e.g., \"The tree's branch swayed gently in the wind.\")\n2. a division of some larger or more complex organization (e.g., \"The committee is part of a larger branch.\")\n\nCONTEXT:\nPrecontext: They decided to take a trip to the countryside. Nearby, there was a small outpost that piqued their interest. They heard it was known for its outstanding features.\nSentence containing the homonym: The big branch was very close to where they were staying.\nEnding: A strong gust of wind could cause it to snap off the tree and smash through one of the windows.\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext mentions a \"small outpost\" in the countryside, suggesting a physical location, which aligns with the plant meaning of \"branch\" as a part of a tree.  \n• The sentence states \"the big branch was very close,\" and the ending describes it as something that could \"snap off the tree,\" strongly supporting the plant/branch of a tree interpretation.  \n• The organizational meaning of \"branch\" (e.g., a division of an organization) does not fit, as there is no mention of an organization, committee, or administrative structure in the context.  \n\nJUDGMENT: CLEAR - 1"
+}

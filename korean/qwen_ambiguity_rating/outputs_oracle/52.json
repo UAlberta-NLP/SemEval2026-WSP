@@ -1,0 +1,20 @@
+{
+  "context_id": "52",
+  "homonym": "suit",
+  "precontext": "John woke up on the wrong side of the bed. His mind was racing with thoughts from the day before. He had been expecting a delivery and it was finally here.",
+  "sentence": "John's morning could hardly have gone much worse; an awful suit had arrived at his front door.",
+  "ending": "",
+  "meanings_considered": [
+    "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+    "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy"
+  ],
+  "explanation": "• The precontext describes a delivery arriving at John’s door, making a physical garment (meaning 1) a plausible and contextually relevant interpretation.  \n• \"A suit\" as a legal proceeding (meaning 2) does not fit the context of a delivery arriving at the door; there is no mention of court, legal action, or disputes.  \n• The phrase \"an awful suit had arrived\" clearly refers to a physical object (a package), not a legal case, given the delivery setting and the emotional tone of the sentence.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 1,
+  "clear_meaning_text": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+  "original_keys": [
+    "52",
+    "53"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: suit\n\nPOSSIBLE MEANINGS:\n1. a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color (e.g., \"He wore a tailored suit to the event.\")\n2. a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy (e.g., \"They filed a suit for damages.\")\n\nCONTEXT:\nPrecontext: John woke up on the wrong side of the bed. His mind was racing with thoughts from the day before. He had been expecting a delivery and it was finally here.\nSentence containing the homonym: John's morning could hardly have gone much worse; an awful suit had arrived at his front door.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext describes a delivery arriving at John’s door, making a physical garment (meaning 1) a plausible and contextually relevant interpretation.  \n• \"A suit\" as a legal proceeding (meaning 2) does not fit the context of a delivery arriving at the door; there is no mention of court, legal action, or disputes.  \n• The phrase \"an awful suit had arrived\" clearly refers to a physical object (a package), not a legal case, given the delivery setting and the emotional tone of the sentence.  \n\nJUDGMENT: CLEAR - 1"
+}

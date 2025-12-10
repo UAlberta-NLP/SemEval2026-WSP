@@ -1,0 +1,20 @@
+{
+  "context_id": "4",
+  "homonym": "track",
+  "precontext": "The detectives arrived at the abandoned train station. They were looking for signs of the missing artifact. A faint trail caught their attention.",
+  "sentence": "They followed the track.",
+  "ending": "",
+  "meanings_considered": [
+    "a pair of parallel rails providing a runway for wheels",
+    "evidence pointing to a possible solution"
+  ],
+  "explanation": "• The precontext mentions \"abandoned train station\" and \"signs of the missing artifact,\" making the physical track (railway) a plausible and contextually grounded reference.  \n• \"Track\" as evidence or trail in the sense of \"a trail\" fits naturally with \"a faint trail caught their attention\" and \"followed the track,\" suggesting a path or sequence of clues.  \n• The sentence \"They followed the track\" is grammatically and semantically consistent with both meanings, but the prior mention of a \"trail\" and the setting of a crime scene strongly favor the meaning of \"a path of evidence\" over the literal railway track.",
+  "judgment": "CLEAR",
+  "clear_meaning_index": 2,
+  "clear_meaning_text": "evidence pointing to a possible solution",
+  "original_keys": [
+    "4",
+    "5"
+  ],
+  "raw_response": "system\nYou are an expert linguist specializing in lexical semantics and word sense disambiguation.\nuser\nYou are an expert linguist analyzing whether a homonym (word with multiple meanings) has a CLEAR or AMBIGUOUS meaning in a given context.\n\nHOMONYM: track\n\nPOSSIBLE MEANINGS:\n1. a pair of parallel rails providing a runway for wheels (e.g., \"The train glided smoothly along the track.\")\n2. evidence pointing to a possible solution (e.g., \"The detective found a crucial track.\")\n\nCONTEXT:\nPrecontext: The detectives arrived at the abandoned train station. They were looking for signs of the missing artifact. A faint trail caught their attention.\nSentence containing the homonym: They followed the track.\nEnding: (none)\n\nTASK:\n1. First, provide exactly 3 SHORT bullet points (one line each) analyzing the plausibility of each meaning given the context.\n2. Then, on a new line, output your judgment:\n   - \"JUDGMENT: CLEAR - [meaning number]\" if ONE meaning is highly plausible and the OTHER has low plausibility\n   - \"JUDGMENT: AMBIGUOUS\" if BOTH meanings are plausible OR both have similar plausibility levels\n\nCLEAR = one meaning fits well, the other does not\nAMBIGUOUS = both meanings could work, or neither clearly dominates\n\nConsider:\n- Does the precontext make one meaning much more likely than the other?\n- Does the sentence usage strongly favor one interpretation?\n- Does the ending confirm one meaning while ruling out the other?\n\nFormat your response EXACTLY as:\n• [bullet point 1]\n• [bullet point 2]\n• [bullet point 3]\nJUDGMENT: [CLEAR - N or AMBIGUOUS]\n\nassistant\n• The precontext mentions \"abandoned train station\" and \"signs of the missing artifact,\" making the physical track (railway) a plausible and contextually grounded reference.  \n• \"Track\" as evidence or trail in the sense of \"a trail\" fits naturally with \"a faint trail caught their attention\" and \"followed the track,\" suggesting a path or sequence of clues.  \n• The sentence \"They followed the track\" is grammatically and semantically consistent with both meanings, but the prior mention of a \"trail\" and the setting of a crime scene strongly favor the meaning of \"a path of evidence\" over the literal railway track.  \n\nJUDGMENT: CLEAR - 2"
+}
