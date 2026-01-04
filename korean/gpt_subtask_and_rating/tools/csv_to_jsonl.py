@@ -20,7 +20,7 @@ def main():
             # Adjust column name if needed: "pred" is what we wrote in predict.py
             rec = {
                 "id": str(row["id"]),
-                "prediction": int(round(float(row["pred"]))),
+                "prediction": float(row["pred"]),
             }
             f_out.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
