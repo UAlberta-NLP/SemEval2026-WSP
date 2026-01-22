@@ -1,3 +1,10 @@
+# Self
+/res/data
+/res/results
+.json
+.jsonl
+CLAUDE.md
+
 # OS-specific files
 .DS_Store
 .DS_Store?
