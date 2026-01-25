@@ -11,7 +11,22 @@ from pathlib import Path
 
 from openai import AsyncOpenAI
 from tqdm.asyncio import tqdm_asyncio
+import pickle
 
+try:
+    with open("caches/correct.pkl", "rb") as f:
+        print('load cache')
+            
+        CACHE = pickle.load(f)
+except FileNotFoundError:
+        print('making new cache')
+        CACHE = {}
+        
+        
+def save_cache():    
+        with open("caches/correct.pkl", "wb") as f:
+            pickle.dump(CACHE, f)
+            
 client = AsyncOpenAI()
 
 # ================================================================
@@ -81,8 +96,14 @@ async def process_item_async(item_id, item, semaphore, model):
         ending=item.get("ending", "(none)") or "(none)",
     )
 
-    raw = await call_model_async(semaphore, model, prompt)
-    parsed = parse_answer(raw)
+    key = (prompt, item_id)
+
+    if key not in CACHE:
+
+        raw = await call_model_async(semaphore, model, prompt)
+        CACHE[key] = parse_answer(raw)
+        save_cache()
+    parsed = CACHE[key]
 
     return {
         "id": item_id,
@@ -138,7 +159,7 @@ def main():
     parser.add_argument("--in", dest="input_path", required=True)
     parser.add_argument("--out_json", required=True)
     parser.add_argument("--model", default="gpt-5")
-    parser.add_argument("--concurrency", type=int, default=50)
+    parser.add_argument("--concurrency", type=int, default=1)
     args = parser.parse_args()
     asyncio.run(main_async(args))
 

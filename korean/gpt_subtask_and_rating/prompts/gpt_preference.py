@@ -15,7 +15,20 @@ from typing import Dict, Optional
 
 from tqdm.asyncio import tqdm_asyncio
 from openai import AsyncOpenAI
-
+import pickle
+try:
+    with open("caches/pref.pkl", "rb") as f:
+        print('load cache')
+            
+        CACHE = pickle.load(f)
+except FileNotFoundError:
+        print('making new cache')
+        CACHE = {}
+        
+def save_cache():    
+        with open("caches/neither.pkl", "wb") as f:
+            pickle.dump(CACHE, f)
+            
 client = AsyncOpenAI()
 
 # ================================================================
@@ -150,13 +163,20 @@ async def process_pair_async(item, semaphore, model, max_output_tokens):
     human_pref = item["human_pref"]
 
     try:
-        raw = await call_model_async(
-            semaphore,
-            model=model,
-            prompt=prompt,
-            max_output_tokens=max_output_tokens,
-        )
-        ans = parse_answer(raw)
+        
+        key = prompt
+        
+        if key not in CACHE:
+            raw = await call_model_async(
+                semaphore,
+                model=model,
+                prompt=prompt,
+                max_output_tokens=max_output_tokens,
+            )
+            CACHE[key] = parse_answer(raw)
+            save_cache()
+        ans = CACHE[key]
+        
     except Exception as e:
         return {
             **item,
@@ -228,8 +248,13 @@ async def main_async(args):
             skipped_non_pairs += 1
             continue
         (k1, i1), (k2, i2) = items
-        avg1 = float(i1.get("average", 0.0))
-        avg2 = float(i2.get("average", 0.0))
+        try:
+            avg1 = float(i1.get("average", 0.0))
+            avg2 = float(i2.get("average", 0.0))
+        except (ValueError, TypeError):
+            avg1 = '???'
+            avg2 = '???'
+
         hom1 = i1.get("homonym", "")
         hom2 = i2.get("homonym", "")
 
@@ -310,7 +335,7 @@ def main():
     parser.add_argument("--in", dest="input_path", required=True)
     parser.add_argument("--model", default="gpt-5")
     parser.add_argument("--max_output_tokens", type=int, default=512)
-    parser.add_argument("--concurrency", type=int, default=10)  # SAFE DEFAULT
+    parser.add_argument("--concurrency", type=int, default=1)  # SAFE DEFAULT
     parser.add_argument("--out_json", type=str, default=None)
     args = parser.parse_args()
     asyncio.run(main_async(args))
