@@ -151,10 +151,17 @@ def main(args):
         i, j = ids
 
         def make_record(sid, entry):
+            try:
+                label_thing = float(entry["average"])
+                stdev_thing = float(entry["stddev"])
+            except (ValueError, TypeError):
+                label_thing = '???'
+                stdev_thing = '???'
             return {
                 "id": sid,
-                "label": float(entry["average"]),
-                "sd": float(entry["stdev"]),
+                "label": label_thing,
+                
+                "sd": stdev_thing,
 
                 # GPT features
                 "gpt_choice": gpt_choice.get(sid, 0),
@@ -188,14 +195,21 @@ def main(args):
     # ============================
     # Metrics
     # ============================
-    mse = mean_squared_error(y, preds)
-    spearman, _ = spearmanr(y, preds)
-    acc_sd1 = acc_within_sd_or_one(preds, y, sd)
+    try:
+        mse = mean_squared_error(y, preds)
+        spearman, _ = spearmanr(y, preds)
+        acc_sd1 = acc_within_sd_or_one(preds, y, sd)
+        
+        print("\n=== DEV METRICS (XGBClassifier + GPT features) ===")
+        print(f"MSE:                 {mse:.4f}")
+        print(f"Spearman ρ:          {spearman:.4f}")
+        print(f"Acc within SD or 1:  {acc_sd1:.4f}")
+    except ValueError:
+        mse = 'undefined'
+        spearman = 'undefined'
+        acc_sd1 = 'undefined'
 
-    print("\n=== DEV METRICS (XGBClassifier + GPT features) ===")
-    print(f"MSE:                 {mse:.4f}")
-    print(f"Spearman ρ:          {spearman:.4f}")
-    print(f"Acc within SD or 1:  {acc_sd1:.4f}")
+    
 
     # ============================
     # Save predictions
