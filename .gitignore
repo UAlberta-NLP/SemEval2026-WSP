@@ -1,6 +1,7 @@
 # Self
 /res/data
 /res/results
+/ning
 .json
 .jsonl
 CLAUDE.md
