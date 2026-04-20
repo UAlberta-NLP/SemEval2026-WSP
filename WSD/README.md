@@ -20,12 +20,13 @@ This tool requires the official ConSec implementation. Clone it and follow their
 Run `queryconsec.py` by passing the required file paths and configuration. 
 
 ### Arguments
-| Argument | Description
-| `--input_file` | Input file in the JSON format provided by task organizers. 
-| `--output_file` | The path where the resulting `.jsonl` file will be saved. 
-| `--consec_location` | The absolute path to your local ConSec root directory. 
-| `--consec_predict_file` | Relative path to ConSec's `predict.py` from the root. 
-| `--ckpt` | Relative path to the checkpoint (`.ckpt`) file from the root. 
+| Argument | Description |
+| :--- | :--- | 
+| `--input_file` | Input file in the JSON format provided by task organizers. |
+| `--output_file` | The path where the resulting `.jsonl` file will be saved. |
+| `--consec_location` | The absolute path to your local ConSec root directory. |
+| `--consec_predict_file` | Relative path to ConSec's `predict.py` from the root. |
+| `--ckpt` | Relative path to the checkpoint (`.ckpt`) file from the root. |
 
 > The default relative paths for the prediction script and checkpoint should work as-is if you followed the standard ConSec installation instructions
 
@@ -39,3 +40,5 @@ python queryconsec.py \
   --input_file dev.json \
   --output_file wsd_predictions.jsonl
 ```
+
+
