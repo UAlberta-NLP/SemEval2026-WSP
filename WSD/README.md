@@ -6,7 +6,9 @@ This utility provides an interactive interface for performing Word Sense Disambi
 First, install the necessary Python dependencies:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install "pip<24.1"
+python -m pip install -r requirements.txt
+python -m spacy download en_core_web_lg
 ```
 
 ### 2. Install ConSec
@@ -35,7 +37,7 @@ Run `queryconsec.py` by passing the required file paths and configuration.
 ## Example
 
 ```bash 
-python queryconsec.py \
+python3 queryconsec.py \
   --consec_location /home/user/consec/ \
   --input_file dev.json \
   --output_file wsd_predictions.jsonl
