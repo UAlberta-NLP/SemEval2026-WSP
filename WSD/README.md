@@ -20,7 +20,7 @@ This tool requires the official ConSec implementation. Clone it and follow their
 Run `queryconsec.py` by passing the required file paths and configuration. 
 
 ### Arguments
-| Argument | Description |
+| Argument | Description
 | `--input_file` | Input file in the JSON format provided by task organizers. 
 | `--output_file` | The path where the resulting `.jsonl` file will be saved. 
 | `--consec_location` | The absolute path to your local ConSec root directory. 
