@@ -1,14 +1,20 @@
 # ConSec WSD Integration
 
 This utility provides an interactive interface for performing Word Sense Disambiguation (WSD) using the **ConSec** framework.
+The following steps are tested with python 3.8.20.
 
 ### 1. Environment Setup
 First, install the necessary Python dependencies:
 
 ```bash
-python -m pip install "pip<24.1"
 python -m pip install -r requirements.txt
-python -m spacy download en_core_web_lg
+```
+
+You may also need to install the following packages separately to convince pip to allow a slight mismatch of requirements; ConSec has some deprecations today.
+
+```bash
+python -m pip install tokenizers
+python -m pip pip install torch==1.7.1 torchtext==0.8.1 pytorch-lightning==1.1.7
 ```
 
 ### 2. Install ConSec
