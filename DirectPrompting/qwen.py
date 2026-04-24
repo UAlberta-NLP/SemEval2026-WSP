@@ -132,7 +132,7 @@ if __name__ == "__main__":
     lines_to_write = do_llm(args.input_file)
 
     a = 0
-    with open(args.out_file, 'w', encoding='utf-8') as f:
+    with open(args.output_file, 'w', encoding='utf-8') as f:
         for prediciton_value in lines_to_write:
             f.write('{"id": "' + str(a) + '", "prediction": ' + str(prediciton_value) + '}\n')
             a += 1
