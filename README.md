@@ -9,7 +9,7 @@
 
 This repository contains our system for **SemEval-2026 Task 5: Rating Plausibility of Word Senses in Ambiguous Stories through Narrative Understanding**. Given a short narrative containing an ambiguous word (a *homonym*) with two candidate senses, the task is to predict, on a 1–5 scale, how plausible each sense is in context. Our approach centers on **task decomposition (TD)**: rather than predicting a score directly, we break the problem into simpler subtasks and combine their outputs, then ensemble complementary signals from word sense disambiguation, fine-tuned embeddings, and large language models.
 
-:second_place_medal: **2nd Place on the Official Leaderboard** | **0.840 Spearman Correlation** (comparable to the 0.834 estimated human upper bound)
+🥈 **2nd Place on the Official Leaderboard** | **0.840 Spearman Correlation** (comparable to the 0.834 estimated human upper bound)
 
 ---
 
