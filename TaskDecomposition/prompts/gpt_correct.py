@@ -103,6 +103,8 @@ async def process_item_async(item_id, item, semaphore, model):
         raw = await call_model_async(semaphore, model, prompt)
         CACHE[key] = parse_answer(raw)
         save_cache()
+    else:
+        raw = ''
     parsed = CACHE[key]
 
     return {

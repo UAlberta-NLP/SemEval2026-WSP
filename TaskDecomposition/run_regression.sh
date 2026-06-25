@@ -20,20 +20,20 @@ echo "---------------------------------------------------"
 echo "1/3: Training XGBoost Regression model..."
 python classifier/train_regression.py \
   --train_json "$TRAIN_FILE" \
-  --gpt_preference_json outputs/train/train_preference.json \
-  --ambig_json outputs/train/train_ambiguity.json \
-  --neither_json outputs/train/train_neither.json \
-  --correct_json outputs/train/train_correct.json \
-  --rating_json outputs/train/train_rating.json
+  --gpt_preference_json outputs/train/preference.json \
+  --ambig_json outputs/train/ambiguous.json \
+  --neither_json outputs/train/neither.json \
+  --correct_json outputs/train/correct.json \
+  --rating_json outputs/train/rating.json
 
 echo "2/3: Predicting on inference set..."
 python classifier/predict_regression.py \
   --dev_json "$INFER_FILE" \
-  --gpt_preference_json outputs/infer/infer_preference.json \
-  --ambig_json outputs/infer/infer_ambiguity.json \
-  --neither_json outputs/infer/infer_neither.json \
-  --correct_json outputs/infer/infer_correct.json \
-  --rating_json outputs/infer/infer_rating.json \
+  --gpt_preference_json outputs/infer/preference.json \
+  --ambig_json outputs/infer/ambiguous.json \
+  --neither_json outputs/infer/neither.json \
+  --correct_json outputs/infer/correct.json \
+  --rating_json outputs/infer/rating.json \
   --model xgb_regression.pkl \
   --out infer_predictions_regression.csv
 

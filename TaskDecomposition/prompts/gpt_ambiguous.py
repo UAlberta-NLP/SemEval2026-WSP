@@ -122,6 +122,8 @@ async def process_pair_async(item, semaphore, model):
     if key not in CACHE:
         raw = await call_model_async(semaphore, model, prompt)
         CACHE[key] = parse_answer(raw)
+    else:
+        raw = ''
     parsed = CACHE[key]
 
     save_cache()

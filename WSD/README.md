@@ -14,7 +14,7 @@ You may also need to install the following packages separately to convince pip t
 
 ```bash
 python -m pip install tokenizers
-python -m pip pip install torch==1.7.1 torchtext==0.8.1 pytorch-lightning==1.1.7
+python -m pip install torch==1.7.1 torchtext==0.8.1 pytorch-lightning==1.1.7
 ```
 
 ### 2. Install ConSec

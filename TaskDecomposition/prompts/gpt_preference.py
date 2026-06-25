@@ -26,7 +26,7 @@ except FileNotFoundError:
         CACHE = {}
         
 def save_cache():    
-        with open("caches/neither.pkl", "wb") as f:
+        with open("caches/pref.pkl", "wb") as f:
             pickle.dump(CACHE, f)
             
 client = AsyncOpenAI()
@@ -175,6 +175,8 @@ async def process_pair_async(item, semaphore, model, max_output_tokens):
             )
             CACHE[key] = parse_answer(raw)
             save_cache()
+        else:
+            raw = ''
         ans = CACHE[key]
         
     except Exception as e:
