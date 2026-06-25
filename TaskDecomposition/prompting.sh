@@ -31,10 +31,10 @@ echo "3/5: Running gpt_preference.py..."
 python prompts/gpt_preference.py --in "$DATA_FILE" --out_json "$OUT_DIR/preference.json"
 
 echo "4/5: Running gpt_correct.py..."
-python prompts/gpt_correct.py --in "$DATA_FILE" --out_json "$OUT_DIR-correct.json"
+python prompts/gpt_correct.py --in "$DATA_FILE" --out_json "$OUT_DIR/correct.json"
 
 echo "5/5: Running gpt_rating.py..."
-python prompts/gpt_rating.py --in "$DATA_FILE" --out_json "$OUT_DIR-rating.json"
+python prompts/gpt_rating.py --in "$DATA_FILE" --out_json "$OUT_DIR/rating.json"
 
 echo "---------------------------------------------------"
 echo "Pipeline complete! Results saved to the '$OUT_DIR' directory."
