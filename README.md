@@ -32,7 +32,12 @@ The input story is processed in parallel by several components — task decompos
 └── assets/              # Paper, poster, and slides
 ```
 
-Each component directory contains its own README with setup and usage instructions.
+### 🚀 Quick Start & Replication
+
+Each component directory contains its own README with specific setup and usage instructions. To replicate our system:
+
+1. **Generate Component Outputs:** Follow the instructions in `TaskDecomposition/`, `DirectPrompting/`, `WSD/`, and `StoryEnding/` to generate the raw prediction features for your dataset.
+2. **Run the Ensemble:** Once you have the outputs from the individual models, navigate to the `Ensemble/` directory to run the ridge regression framework and produce the final plausibility scores.
 
 ---
 

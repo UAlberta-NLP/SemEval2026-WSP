@@ -1,0 +1,11 @@
+making new cache
+Pairs: 465
+
+========== SUMMARY ==========
+Total pairs processed:   465
+Parsed successfully:     465
+Ambiguous responses:     70
+Failed / empty outputs:  0
+=============================
+
+Saved: outputs/test/test_ambiguity.json
