@@ -33,7 +33,7 @@ def parse_args():
                       help="Path to the training set file.")
     parser.add_argument("--infer_path", type=str,  default='../data/test.json',
                       help="Path to the file containing the set to infer on.")
-    parser.add_argument("--output_location", type=str,  default='../predictions',
+    parser.add_argument("--output_location", type=str,  default='../predictions/test',
                       help="Path to the location to output inferences.")
     
     
@@ -379,7 +379,7 @@ def main():
         pred = predict_single(model, tokenizer, item, DEVICE, platt_params=platt_params)
         predictions.append(pred)
     
-    output_path = f"{args.output_location}/story_ending_predictions.jsonl"
+    output_path = f"{args.output_location}/story_ending.jsonl"
     with open(output_path, "w", encoding="utf8") as outfile:
         for item, pred in zip(dev_data, predictions):
             entry = {"id": item["id"], "prediction": pred["pred_int"]}

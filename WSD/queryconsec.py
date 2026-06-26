@@ -232,7 +232,7 @@ def prepare_sessions(path):
 def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate ExpandNet output against gold standard.")
     parser.add_argument("--input_file", type=str, help="Path to the input json file.", default='test.json')
-    parser.add_argument("--output_file", type=str, help="Path to the desired output jsonl file location.", default='wsdpredictions.jsonl')
+    parser.add_argument("--output_file", type=str, help="Path to the desired output jsonl file location.", default='../predictions/test.wsd.jsonl')
     parser.add_argument("--consec_predict_file", type=str, default="src/scripts/model/predict.py", 
                         help="Path to the location of the predict script downloaded from ConSec, relative to the ConSec root folder.")
     parser.add_argument("--consec_location", type=str, 

@@ -10,7 +10,7 @@ model_name = "Qwen/Qwen3-14B"
 def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate ExpandNet output against gold standard.")
     parser.add_argument("--input_file", type=str, help="Path to the input json file.", default='test.json')
-    parser.add_argument("--output_file", type=str, help="Path to the desired output jsonl file location.", default='qwenpredictions.jsonl')
+    parser.add_argument("--output_file", type=str, help="Path to the desired output jsonl file location.", default='../predictions/test/qwen.jsonl')
     return parser.parse_args()
 
 def last_int_in_str(text: str):
