@@ -1,9 +1,11 @@
 torch
 numpy
 transformers
+tqdm
 nltk
 scipy
 tokenizers
 accelerate
 safetensors
 sentencepiece
+scikit_learn
