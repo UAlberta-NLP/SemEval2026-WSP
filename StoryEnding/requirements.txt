@@ -1,11 +1,7 @@
 torch
-numpy
 transformers
-tqdm
+accelerate
 nltk
 scipy
-tokenizers
-accelerate
-safetensors
-sentencepiece
-scikit_learn
+scikit-learn
+sentencepiece 
