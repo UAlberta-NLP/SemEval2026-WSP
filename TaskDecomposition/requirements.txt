@@ -1,6 +1,6 @@
 joblib==1.4.2
 openai==2.44.0
-pandas==2.0.3
+pandas
 scikit_learn
 tqdm
 xgboost==3.3.0
